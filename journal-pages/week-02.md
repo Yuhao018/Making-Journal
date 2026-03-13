@@ -120,6 +120,14 @@ height="430">
 
 Test your sketch. Show it to someone else and observe how they use it. Refine the interaction based on what you observe.
 
+
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/u6Cr3ckA1"
+width="420"
+height="430">
+</iframe>
+
+
 Document Your Process
 To capture the full scope of your practice, each entry in the Making Journal must include a mix of visual and textual evidence, such as sketches, screenshots, GIFs, diagrams, process notes, instructions and reflections.
 
