@@ -10,6 +10,12 @@ layout: default
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/QYeLpkTl1"
+width="400"
+height="400">
+</iframe>
+
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*
