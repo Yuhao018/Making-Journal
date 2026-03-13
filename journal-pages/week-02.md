@@ -50,6 +50,7 @@ height="400">
 </iframe>
 
 
+
 ### Activity 2: Make an Interactive Sketch
 
 Using the DOM elements covered in class (createButton(), createSlider(), createInput()), create a sketch with at least two interactive controls that change something on the canvas.
@@ -60,6 +61,8 @@ src="https://editor.p5js.org/yuhaochen018/full/XLU5K0lGp"
 width="400"
 height="400">
 </iframe>
+
+
 
 ### Activity 3: Vibe Code an Interactive Sketch
 
@@ -72,18 +75,27 @@ Start with something simple, add features one at a time.
 Ask for something you don't know how to code, and try to learn from the LLM.
 Take note of what surprised you. What worked first time, what didn't, and what did you learn from reading the code?
 
-Independent Study: Interactive Data Portrait
-Overview
+
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/hhgpNmyZ0"
+width="400"
+height="400">
+</iframe>
+
+
+
+## Independent Study: Interactive Data Portrait
+### Overview
 
 Take the data you collected for Experiment 1 and use it as the basis for an interactive p5.js sketch. The challenge is to translate your hand-drawn data portrait into something a viewer can explore, control, or manipulate through interactive elements.
 
-Step 1: Translate your data drawing into code
+### Step 1: Translate your data drawing into code
 
 Look at the data you collected by hand last week. How could you represent it in a p5.js sketch? Think about which values are numeric, which are categories, and which are qualitative or hard to pin down.
 
 You don't need to represent everything. Choose aspects of your data drawing that are most interesting to make interactive.
 
-Step 2: Design your interactive visualisation
+### Step 2: Design your interactive visualisation
 
 Create a p5.js sketch that includes interactive elements that allow the viewer to explore your data. Use DOM elements (e.g. buttons, sliders, text inputs, dropdowns, checkboxes) to give the viewer control over what they encounter.
 
@@ -96,7 +108,7 @@ Use the p5.js referenceLinks to an external site. and tutorialsLinks to an exter
 
 Vibe coding is a legitimate creative workflow. You can use LLMs to help you build features beyond what was covered in class. Make sure to document your process and explain what you learn.
 
-Step 3: Iterate
+### Step 3: Iterate
 
 Test your sketch. Show it to someone else and observe how they use it. Refine the interaction based on what you observe.
 
