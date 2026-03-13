@@ -140,10 +140,15 @@ Include reflective writing that addresses the following:
 
 - How did you decide which interactive elements to use?
 
+  *I chose the interactive elements based on the information I wanted the audience to notice. In this sketch, I used a checkbox to control whether the numbers and smiley face icons appeared on the chart. This allows the audience to switch between a simple visual chart and a more detailed numerical chart. The choice of DOM elements depends on what you want the viewer to focus on. My goal was to keep the chart simple at first, but allow viewers to choose to see more information. The checkbox is easy to use and helps viewers understand the data more clearly.*
+
 - What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
 
-- Did you use vibe coding or other tools in your process? What did you learn from this?
+  *When the audience interacts with the view, they can explore the data. By clicking the checkbox, the data that the audience pays attention to will be more prominent. This makes it easier for the audience to understand the exact values of each part in the graphic. In the hand drawn version, the information is fixed and the audience can only see it. In the interactive version, the audience can control what they see. This makes the data easier to read and more attractive. It also helps to highlight the differences between time periods.*
 
+- Did you use vibe coding or other tools in your process? What did you learn from this?
+  *Yes, I use ChatGPT to help generate some p5 code. My case, such as bouncing ball and checkbox interactions, are both use the ChatGPT. During this process, I learned that understanding the logic of a program is important when you use AI tools. You need to make the prompt clear, or the result may not match what you want. For example, when I described bouncing balls, I forgot to mention that pressing the button again should pause the animation. Therefore, the running results did not match my expectations. In addition, not all AI codes are necessarily correct and often require updated.*
 - What would you develop further with more time?
 
-- Any other reflections?
+  *Later on, I want to learn some programming fundamentals, such as loops and conditional statements. I think these would be very useful for displaying more complex images in p5. In addition to these, I'd like to learn more about other scripts, in order to create richer digital patterns. At the same time, the DOM will also be a key focus for me, as this can generate more engagement with the audience, attracting their attention more towards the information I want to convey.*
+
