@@ -43,7 +43,6 @@ height="400">
 </iframe>
 
 
-
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/Kyz_KJC-N"
 width="400"
@@ -51,19 +50,18 @@ height="400">
 </iframe>
 
 
-
-
-
 ### Activity 2: Make an Interactive Sketch
 
 Using the DOM elements covered in class (createButton(), createSlider(), createInput()), create a sketch with at least two interactive controls that change something on the canvas.
 
-Some ideas:
 
-A slider that controls the size or position of a shape
-A button that resets or randomises the drawing
-A text input that displays a label on the canvas
-Use the p5.js referenceLinks to an external site. to try DOM elements we haven't covered, like createSelect() or createCheckbox().
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/fx0eJKaBi"
+width="400"
+height="400">
+</iframe>
+
+
 
 Activity 3: Vibe Code an Interactive Sketch
 
