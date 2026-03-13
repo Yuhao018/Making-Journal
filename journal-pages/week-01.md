@@ -7,7 +7,7 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Documentation 
-## DES240 Experiment 1: Data Drawings
+## Experiment 1: Data Drawings
 
 ### Group Data Portrait
 
@@ -26,19 +26,13 @@ In a group of 4–5 people, collect personal data from one another and collabora
 
 Devise a short questionnaire of 5 questions to ask every member of the group. The questions should be personal but low-stakes, and should aim to capture something human and specific (i.e. not just demographics).
 
-Examples:
-
-- Something qualitative: *What were you thinking about on the way to class today?*
-- Something embodied: *How many hours of sleep did you get last night?*
-- Something subjective: *On a scale of your own invention, how are you feeling right now?*
-- Something playful: *What is a sound you heard this morning that you liked?*
-- Something relational: *How may tabs are open on your phone right now?*
-
 Come up with your own questions as a group: what would you like to know about each other?
 
 Each person records their own answers on individual post-it notes. Each post-it should be anonymous (no names).
 
-**Keep Lupi's ideas in mind, about how data should be able to include empathy and imperfection**
+- 5 questions：
+![5questions](../assets/week-01/5questions.jpg)
+
 
 #### Step 2: Visualise
 
@@ -50,17 +44,18 @@ Invent your own visual language: choose how to encode each data point using shap
 
 The visualisation must include a legend that explains the encoding system.
 
-Consider:
 
-- How will you distinguish one person from another?
-- What will position on the page mean?
-- Can your drawing capture something that a spreadsheet couldn't?
+- Visualisation
+![visualisation](../assets/week-01/visualisation.jpg)
 
 #### Step 3: Decode
 
 Swap your data portrait with another group. 
 
 Examine the visualisation you have received.
+
+- Another group：
+
 
 Work together to write some brief responses to the questions below. Put these on post-it notes attached to the data drawing.
 
