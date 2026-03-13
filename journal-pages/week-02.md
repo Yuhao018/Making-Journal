@@ -98,8 +98,8 @@ You don't need to represent everything. Choose aspects of your data drawing that
 
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/EJ7K1o7Rb"
-width="400"
-height="400">
+width="420"
+height="430">
 </iframe>
 
 
