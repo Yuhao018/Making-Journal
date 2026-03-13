@@ -136,6 +136,8 @@ Include reflective writing that addresses the following:
 
 - What data and visual aspects from Experiment 1 did you choose to work with, and why?
 
+  *I've chosen to use the bar graph data from experiment 1. The data shows how many times I smiled during different periods of the day. This is quantitative data, so it's easier to represent using code. In p5, a bar graph can be created using simple rectangles. I also expressed the different colour categories from the original drawing in code, to represent different activities such as gaming, videos, and other categories. By using the same structure and colours, the coded version is fundamentally the same as my hand-drawn data portrait, while I've added the delivery of displaying numbers, which is more intuitive than the originally drawn graph.*
+
 - How did you decide which interactive elements to use?
 
 - What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
