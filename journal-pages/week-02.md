@@ -6,11 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-<iframe 
-src="https://editor.p5js.org/yuhaochen018/full/QYeLpkTl1"
-width="400"
-height="400">
-</iframe>
+
 
 # Interactivity
 ## In-Class Activities
@@ -26,12 +22,18 @@ Use the p5.js referenceLinks to an external site. to find different shapes to tr
 Experiment with colour, size, and position. Try changing the order of your instructions — what happens?
 
 <iframe 
-src="https://editor.p5js.org/yuhaochen018/full/7JDsGft2B"
+src="https://editor.p5js.org/yuhaochen018/full/QYeLpkTl1"
 width="400"
 height="400">
 </iframe>
 
-<iframe src="https://editor.p5js.org/yuhaochen018/full/7JDsGft2B"></iframe>
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/7VDVmqtJR"
+width="400"
+height="400">
+</iframe>
+
+
 
 ### Activity 2: Make an Interactive Sketch
 
