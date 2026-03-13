@@ -78,8 +78,8 @@ Take note of what surprised you. What worked first time, what didn't, and what d
 
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/hhgpNmyZ0"
-width="400"
-height="400">
+width="500"
+height="500">
 </iframe>
 
 
