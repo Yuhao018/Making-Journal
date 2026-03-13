@@ -12,25 +12,28 @@ width="400"
 height="400">
 </iframe>
 
-## Interactivity
-In-Class Activities
-Overview
+# Interactivity
+## In-Class Activities
+### Overview
 
 Using p5.js, explore coding fundamentals and interactive DOM elements (buttons, sliders, text inputs) to create sketches that respond to user input. These activities build on the data drawing concepts from Experiment 1, shifting from physical to digital materials.
 
-Materials
-
-BYOD laptop and a web browser
-The p5.js web editorLinks to an external site. (create a free account)
-Activity 1: Drawing with Code
-
+### Activity 1: Drawing with Code
 Get familiar with the p5.js editor. Create a simple composition using at least three different shapes.
 
 Use the p5.js referenceLinks to an external site. to find different shapes to try, e.g. rect(), triangle(), line(), ellipse().
 
 Experiment with colour, size, and position. Try changing the order of your instructions — what happens?
 
-Activity 2: Make an Interactive Sketch
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/7JDsGft2B"
+width="400"
+height="400">
+</iframe>
+
+<iframe src="https://editor.p5js.org/yuhaochen018/full/7JDsGft2B"></iframe>
+
+### Activity 2: Make an Interactive Sketch
 
 Using the DOM elements covered in class (createButton(), createSlider(), createInput()), create a sketch with at least two interactive controls that change something on the canvas.
 
