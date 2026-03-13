@@ -56,14 +56,12 @@ Using the DOM elements covered in class (createButton(), createSlider(), createI
 
 
 <iframe 
-src="https://editor.p5js.org/yuhaochen018/full/fx0eJKaBi"
+src="https://editor.p5js.org/yuhaochen018/full/XLU5K0lGp"
 width="400"
 height="400">
 </iframe>
 
-
-
-Activity 3: Vibe Code an Interactive Sketch
+### Activity 3: Vibe Code an Interactive Sketch
 
 Use an LLM (e.g. Gemini, ChatGPT, Claude) to help you build a more ambitious interactive sketch in p5.js.
 
