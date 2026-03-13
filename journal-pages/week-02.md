@@ -133,9 +133,15 @@ To capture the full scope of your practice, each entry in the Making Journal mus
 
 Include reflective writing that addresses the following:
 
-What data and visual aspects from Experiment 1 did you choose to work with, and why?
-How did you decide which interactive elements to use?
-What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
-Did you use vibe coding or other tools in your process? What did you learn from this?
-What would you develop further with more time?
-Any other reflections?
+
+- What data and visual aspects from Experiment 1 did you choose to work with, and why?
+
+- How did you decide which interactive elements to use?
+
+- What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
+
+- Did you use vibe coding or other tools in your process? What did you learn from this?
+
+- What would you develop further with more time?
+
+- Any other reflections?
