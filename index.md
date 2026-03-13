@@ -5,7 +5,7 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+*My name is Yuhao. I come from China. I am interested in combining traditional cultural elements with contemporary design and technology. In DES240, I hope to learn how data can be used as a creative material to produce meaningful. Through this course, I hope to develop both my technical skills and my critical thinking as a designer.*
 
 ---
 
