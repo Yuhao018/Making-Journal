@@ -55,14 +55,25 @@ Swap your data portrait with another group.
 Examine the visualisation you have received.
 
 - Another group：
-
+![group2](../assets/week-01/group2.jpg)
 
 Work together to write some brief responses to the questions below. Put these on post-it notes attached to the data drawing.
 
 - What can you learn about the people in this group from their data portrait?
+
+From the picture, I can gather some of the daily habits and characteristics of the team members. Different people are represented by different colours. You can see each member’s sleeping habits. Each team member’s commonly used mode of transport is also visible. Each team member's weight represents their physical characteristics.
+
 - What surprised you?
+
+What’s surprise in the image is that most team members go to sleep quite late. Most team members use different modes of transport. Only 2 people use the same mode, which is the bus.
+
 - What questions do you have for them?
+
+Does the tree and the number next to it represent time spent in nature, or the number of times spent in nature?
+
 - Can you tell who is who?
+
+It's difficult to tell who's who because I'm not familiar with the other team members' habits.
 
 ### Independent Data Portrait
 
@@ -84,21 +95,28 @@ Don't rely on apps or digital tools. The act of noticing and writing things down
 
 Be as specific and honest as you can. Include details that feel imperfect, ambiguous, or hard to categorise.
 
+- Record:
+![individual1](../assets/week-01/individual1.jpg)
+
 #### Step 3: Design your visualisation 
 
 After your collection period, create a data drawing on one side of A4 card. 
 
 Invent a personal visual language: use colour, shape, position, pattern, size, and texture to encode different aspects of your data. On the reverse side, draw a legend that explains your visual system.
 
+- Visualisation:
+![individual2](../assets/week-01/individual2.jpg)
+
 #### Document your process 
 
 To capture the full scope of your practice, each entry in the Making Journal must include a mix of visual and textual evidence, such as sketches, screenshots, GIFs, diagrams, process notes, instructions and reflections.
 
-Write a short reflection (300–500 words) addressing:
+I choose to track 'what makes me laugh, and when'. I chose this topic because collecting data in daily life feels easy. I'm a bit introverted and not laugh often. So I know the data won't be too much or too messy. This makes it easier for me to visualise in the future. I am also curious about those small moments that truly make me laugh, because I don't always notice them.
 
-- What did you choose to track, and why?
-- What was it like to collect and visualise this data? 
-- What did you notice that you wouldn't have otherwise?
-- What choices did you make for your data collection? What does it emphasise? What is left out?
-- How does this exercise relate to data humanism and the *Dear Data* project?
-- Any other reflections?
+Collecting this data has made me pay more attention to my daily life. Sometimes I laugh so hard that I almost forget to write it down. When I was tracking it, I had to care for those small moments. At first, it was a bit difficult, but after a while, it became a habit. When visualization is needed, I have to consider how to display data clearly. I use a simple table to record things that make me laugh. It feels great to turn my real-life moments into a painting.
+
+Before this project, I thought I was a very serious and rarely laughed. But after collecting the data, I realised that I was laughing more than I had imagined. Sometimes I laugh a few times. I have noticed that I laugh the most when I watch interesting videos or when I see my friends doing something foolish, such as tripping or making funny faces. I also noticed that most of my laughter occurs at night, after I finish assignments. To make visualisation easier, I grouped laughter by time zone. This showed me a result that I didn't expect.
+
+I made a simple table to record the time and events I laughed during the day. This helps me see which times of the day I am most relaxed and what kind of things trigger my laughter. For example, I have found that evenings and interesting videos are important components of my laughter. But I overlooked one thing, which is how many times I laughed every moment. Sometimes I only laugh once, sometimes I laugh many times in a row. But the data I recorded did not show the intensity of my laughter.
+
+This exercise focuses on individual experiences, so it is related to data humanism. Data humanism is about bringing human emotions and their corresponding meanings back to data. The Dear Data project is a project in which two designers record and express personal data by hand drawing. My project is very similar because the laughter I collected is some very humanized data and was hand drawn. This is not just cold numbers, but using data to help me better understand myself. I used to laugh often too
