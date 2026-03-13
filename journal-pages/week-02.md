@@ -108,14 +108,13 @@ height="430">
 
 Create a p5.js sketch that includes interactive elements that allow the viewer to explore your data. Use DOM elements (e.g. buttons, sliders, text inputs, dropdowns, checkboxes) to give the viewer control over what they encounter.
 
-Consider:
 
-What can interaction reveal that your hand-drawn portrait could not?
-How do your controls relate to the structure of your data?
-What happens when the viewer changes something? Is the response immediate, gradual, surprising?
-Use the p5.js referenceLinks to an external site. and tutorialsLinks to an external site. to learn new techniques. 
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/x6tlOBG01"
+width="420"
+height="430">
+</iframe>
 
-Vibe coding is a legitimate creative workflow. You can use LLMs to help you build features beyond what was covered in class. Make sure to document your process and explain what you learn.
 
 ### Step 3: Iterate
 
