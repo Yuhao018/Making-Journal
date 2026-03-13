@@ -95,6 +95,15 @@ Look at the data you collected by hand last week. How could you represent it in 
 
 You don't need to represent everything. Choose aspects of your data drawing that are most interesting to make interactive.
 
+
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/EJ7K1o7Rb"
+width="400"
+height="400">
+</iframe>
+
+
+
 ### Step 2: Design your interactive visualisation
 
 Create a p5.js sketch that includes interactive elements that allow the viewer to explore your data. Use DOM elements (e.g. buttons, sliders, text inputs, dropdowns, checkboxes) to give the viewer control over what they encounter.
