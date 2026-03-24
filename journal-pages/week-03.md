@@ -66,8 +66,8 @@ Experiment with the sketch:
 
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/2ibqwt2Jc"
-width="410"
-height="410">
+width="420"
+height="430">
 </iframe>
 
 ## Documentation 
