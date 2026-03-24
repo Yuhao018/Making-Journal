@@ -6,6 +6,13 @@ layout: default
 
 [← Back to Home](../index.md)
 
+# Experiment 3: Live Data
+
+## In-Class Activities
+
+### Overview
+
+Through digital and analogue approaches, explore how to access, filter, and translate live data into visual and material forms. These activities build on the coding fundamentals from Experiment 2, while also introducing analogue practices rooted in rule-based and generative design.
 ## Documentation 
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
