@@ -52,27 +52,23 @@ Experiment with the sketch:
 
 - Change the latitude and longitude to a different city and observe how the sketch changes.
 
-  *I choose Shanghai and its latitude and longitude is (31.22,121.46). temp=10.6, wind=7.7, humidity=91*
-
-<iframe 
-src="https://editor.p5js.org/yuhaochen018/full/Oda5n1zg9"
-width="410"
-height="410">
-</iframe>
-
 - Use the data to control different visual properties: colour, position, size, number of shapes.
 
+- Add more weather variables from the Open-Meteo docs to the API URL.
 
-
-
-- Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
-Try using random() or noise() alongside or instead of the live data.
+- Try using random() or noise() alongside or instead of the live data.
 
 - Use vibe coding to try something more ambitious.
 
 - Use print() in the console to check the range and scale of values before trying to visualise them.
 
+*I choose Shanghai and its latitude and longitude is (31.22,121.46).*
 
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/2ibqwt2Jc"
+width="410"
+height="410">
+</iframe>
 
 ## Documentation 
 
