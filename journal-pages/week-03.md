@@ -20,11 +20,25 @@ Using your terminal and the documentation / GitHub repos for wttr.inLinks to an 
 
 - Get the weather for a location using its GPS coordinates
 
+  *Get the geolocation results of looking up the location.*
+  ![e10](../assets/week-03/e10.png)
 
-Get the weather in a different language
-Get the current moon phase
-Look up the synonyms and antonyms of a word
-Find something else in the documentation that we haven't covered
+    *Get the weather using its GPS coordinates.*
+  ![e13](../assets/week-03/e13.png)
+
+- Get the weather in a different language
+
+  ![e12](../assets/week-03/e12.png)
+
+- Get the current moon phase
+
+ ![e16](../assets/week-03/e16.png)
+
+- Look up the synonyms and antonyms of a word
+
+ ![e17](../assets/week-03/e17.png)
+
+- Find something else in the documentation that we haven't covered
 
 ## Documentation 
 
