@@ -51,6 +51,15 @@ Open the demo sketchLinks to an external site. in the p5.js web editor. This ske
 Experiment with the sketch:
 
 Change the latitude and longitude to a different city and observe how the sketch changes.
+
+*I choose Shanghai and its latitude and longitude is (31.22,121.46). temp=10.6, wind=7.7, humidity=91*
+
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/Oda5n1zg9"></iframe>"
+width="410"
+height="410">
+</iframe>
+
 Use the data to control different visual properties: colour, position, size, number of shapes.
 Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
 Try using random() or noise() alongside or instead of the live data.
