@@ -23,7 +23,7 @@ Using your terminal and the documentation / GitHub repos for wttr.inLinks to an 
   *Get the geolocation results of looking up the location.*
   ![e10](../assets/week-03/e10.png)
 
-    *Get the weather using its GPS coordinates.*
+  *Get the weather using its GPS coordinates.*
   ![e13](../assets/week-03/e13.png)
 
 - Get the weather in a different language
@@ -32,13 +32,32 @@ Using your terminal and the documentation / GitHub repos for wttr.inLinks to an 
 
 - Get the current moon phase
 
- ![e16](../assets/week-03/e16.png)
+  ![e16](../assets/week-03/e16.png)
 
 - Look up the synonyms and antonyms of a word
 
- ![e17](../assets/week-03/e17.png)
+  ![e17](../assets/week-03/e17.png)
 
 - Find something else in the documentation that we haven't covered
+
+  *Get airport weather report by Using 3-letter airport codes.*
+
+  ![e18](../assets/week-03/e18.png)
+
+#### Activity 2: Weather Visualisation
+
+Open the demo sketchLinks to an external site. in the p5.js web editor. This sketch uses the Open-Meteo APILinks to an external site. to fetch current weather data for Auckland and map it to visual properties.
+
+Experiment with the sketch:
+
+Change the latitude and longitude to a different city and observe how the sketch changes.
+Use the data to control different visual properties: colour, position, size, number of shapes.
+Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
+Try using random() or noise() alongside or instead of the live data.
+Use vibe coding to try something more ambitious.
+Use print() in the console to check the range and scale of values before trying to visualise them.
+
+
 
 ## Documentation 
 
