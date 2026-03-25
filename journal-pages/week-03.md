@@ -110,13 +110,16 @@ Include reflective writing that addresses the following:
   *I chose the digital approach of p5. js. Because I hope my chart can automatically update based on Auckland weather data, and it can display the current weather conditions at any time. As a design major student. This is my first time trying to set colors, shapes, and movements using a program. Although it was time-consuming at the beginning, I had to write a program for a long time and often made mistakes. But seeing the visual effect produced. I am still very pleased.*
 
 - What live data source did you work with, and how did you access it?
+
   *I used the Open-Meteo API, which provides free real-time weather data. I accessed it through the Open-Mateo website. I chose Auckland and the corresponding current data. such as temperature, apparent temperature, humidity, precipitation, and whether it is day or night。 In my code, I used the preload() function in p5. js to load JSON data before the sketch starts. Then, I extracted specific values and stored them in variables. When making sketches, I put this variable into the graphic parameters so that the graphics will change with the variable. At the same time, I also used the noise() function, which causes the graphics and colors to slowly change accordingly.*
 
 - How did you decide on the mapping between data and visual/material form?
 
+  *I will associate each weather value with different visual elements to make it clear to readers immediately. The temperature corresponds to the height of the rectangle, so the higher the temperature, the higher the shape. The apparel temperature corresponds to a triangle to display the feeling compared to the actual temperature. Humidity can affect the size of a circle, causing it to grow or shrink. Precipitation is controlled by noise() to create another vertically moving circle, creating a feeling of rainfall. I also use is_day to switch the color of the background between day and night. These graphics and corresponding text make the data visually easier to understand.*
 
 - What does your work reveal or communicate about the data?
 
+  *My work shows the relationship between different weather factors. For example, you can quickly compare the difference between temperature and apparent temperature by viewing the height of the shape. The humidity circle indicates that the air may feel dense. The moving precipitation elements add a sense of activity, and as they move downwards, the humidity expands laterally. The greater the precipitation, the higher the humidity. The transition between day and night is also controlled by background color and text. The sketch conveys a sense of space in the environment, which helps the audience understand the situation more quickly*
 
 - Did you use vibe coding, LLMs, or other tools in your process? What did you learn?
 
