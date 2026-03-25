@@ -81,7 +81,7 @@ src="https://editor.p5js.org/yuhaochen018/full/hhgpNmyZ0"
 width="450"
 height="450">
 </iframe>
-
+The jumping ball (OpenAI, 2026).
 
 
 ## Independent Study: Interactive Data Portrait
@@ -126,6 +126,7 @@ src="https://editor.p5js.org/yuhaochen018/full/u6Cr3ckA1"
 width="420"
 height="430">
 </iframe>
+Iteration(OpenAI, 2026).
 
 
 Document Your Process
@@ -151,4 +152,7 @@ Include reflective writing that addresses the following:
 - What would you develop further with more time?
 
   *Later on, I want to learn some programming fundamentals, such as loops and conditional statements. I think these would be very useful for displaying more complex images in p5. In addition to these, I'd like to learn more about other scripts, in order to create richer digital patterns. At the same time, the DOM will also be a key focus for me, as this can generate more engagement with the audience, attracting their attention more towards the information I want to convey.*
+
+
+  OpenAI. (2026). ChatGPT (Mar 13 version) [Large language model]. https://chat.openai.com/chat
 
