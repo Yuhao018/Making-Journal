@@ -70,4 +70,18 @@ width="420"
 height="440">
 </iframe>
 
-####  
+#### Activity 3: Design and Execute a Data Protocol
+
+In pairs, design a data protocol: a set of rules for translating a live data source. This is the analogue equivalent of an API: a defined set of rules for requesting and receiving data.
+
+Your protocol must specify:
+
+Source: Online fan count of a gaming streamer
+
+Frequency: every minute
+
+Mapping: how to record each observation as a mark, shape, or action
+![e31](../assets/week-03/e31.jpg)
+
+
+
