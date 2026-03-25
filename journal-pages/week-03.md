@@ -88,7 +88,7 @@ Overview
 
 Building on the in-class activities, create a work that engages with live data (data that is ongoing and changing). You can either take a digital approach, or an analogue/physical approach.
 
-*I choose digital approach.
+*I choose digital approach.*
 
 Option A: Digital
 
@@ -96,12 +96,6 @@ Build a p5.js sketch that responds to live data.
 
 Use an API to bring external data into your sketch. The Open-Meteo APILinks to an external site. (weather) and the ISS Location APILinks to an external site. (International Space Station position) are good examples, as both are free and require no account or API key. However, for this task you must find your own API to work with.
 
-Consider:
-
-How do you map data values to visual properties (colour, size, position, shape, movement)?
-What does the visualisation reveal about the data that numbers alone cannot?
-How does the sketch change over time? What is the relationship between the data's rhythm and the visual rhythm?
-Use the p5.js referenceLinks to an external site. and tutorialsLinks to an external site. to learn new techniques. You could also use LLMs to help you build features beyond what was covered in class. Make sure to document your process and explain what you learn.
 
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/7r-sKL7uS"
