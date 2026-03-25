@@ -123,13 +123,15 @@ Include reflective writing that addresses the following:
 
 - Did you use vibe coding, LLMs, or other tools in your process? What did you learn?
 
+  *I didn't use external tools to write the code this time, I just tried to do it slowly and slowly by myself. I tried adding the noise() function to create more dynamic motion. During this process, I learned how to convert structured data into graphics and colors. More complex graphics may require tools such as LLM. At present, it is relatively simple. Write more code yourself, and reading the code instructions can help understand.*
 
 - How does your work relate to the practitioner examples discussed in class (e.g. David Bowen, Conditional Design, Nathalie Miebach)?
 
+  *I complete my case by studying examples from practitioners. They taught me how to convert real-time data into visual form. Similar to Natalie Jeremijenko's Dangling String, my sketches use real-time data to create subtle visual changes that can be observed without the need for complete attention. It is also related to David Bowen, who transforms real-world data into visual systems. In my example, weather data drives shape, color, size, and motion, expressed through visual experience.*
 
 - What would you develop further with more time?
 
-
+  *I want to familiarise myself with the scripts first. Start further exploration based on familiarity with the tools. Make the pictures more natural. And it can achieve interaction. For example, users can choose different styles of backgrounds based on their preferences. At present, only flat graphics are used, and we want to further develop 3D graphics so that the visual image will be more prominent. In addition, there are loop statements that need to be learned so that more dynamic graphics can be created.*
 
 
 
