@@ -153,6 +153,6 @@ Include reflective writing that addresses the following:
 
   *Later on, I want to learn some programming fundamentals, such as loops and conditional statements. I think these would be very useful for displaying more complex images in p5. In addition to these, I'd like to learn more about other scripts, in order to create richer digital patterns. At the same time, the DOM will also be a key focus for me, as this can generate more engagement with the audience, attracting their attention more towards the information I want to convey.*
 
-
+## References
   OpenAI. (2026). ChatGPT (Mar 13 version) [Large language model]. https://chat.openai.com/chat
 
