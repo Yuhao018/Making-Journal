@@ -45,24 +45,56 @@ Spend 10 minutes exploring.
 
 Open NotebookLMLinks to an external site. with your University Google account and create a new notebook.
 
-1. Build your notebook: 
+1. Build your notebook:
+
 Add sources that represent your experimentation so far on the course. Mix your own work with other sources: your Making Journal URL (GitHub Pages), practitioner websites that resonated with you, data sources or APIs you are curious about, and other creative work you have made or are interested in.
 
+![e21](../assets/week-04/e21.png)
+
 2. Frame your research:
-Before generating artefacts, add a short document to shape the AI's focus. Open a text editor and write three sentences: the experiment you found most interesting and why, a theme or idea you keep coming back to, and something you're curious about but haven't had a chance to explore yet. Save this as context.md and add it to your notebook.
+
+Before generating artefacts, add a short document to shape the AI's focus. Open a text editor and write three sentences: 
+
+- The experiment you found most interesting and why.
+
+*I've been using p5.js to write code and create graphics lately. It was the first time I realised that programmes can be written to produce all sorts of dynamic graphics. The colour, size and position of the graphics can all change with variables. In particular, p5.js also allows for delivery via interactive controls. The reason I'm interested in this is because these dynamic graphics can express a lot of meaning. They capture the audience's attention more easily than linguistic or numerical representations.*
+
+- A theme or idea you keep coming back to.
+
+*I vividly remember one occasion when I finished writing a p5.js graphics code. After finishing, I had a sudden idea to ask AI to help me see how it could be improved. The AI transformed my graphic representing water into the shape of a wave, with the seawater constantly undulating. The colour also changed with the undulation of the seawater. I was amazed by the power of this kind of graphics code.*
+
+- Something you're curious about but haven't had a chance to explore yet. 
+
+*I've seen that p5.js has 3D models, but I haven't had time to try them yet. I will definitely explore using code to create 3D graphics when I have the opportunity. Although this method of creating 3D graphics is not as efficient as using 3D software, the ability to display dynamic 3D graphics on a website with interactive controls still feels different.*
+
+![e22](../assets/week-04/e22.png)
 
 3. Explore in the chat:
-Use the chat to ask questions about your sources. Try prompts like:
 
-"If my sources were documentation for a design project, what would the final outcome be?"
-"What do my sources suggest I care about?"
-"Identify a provocation hidden in my sources"
-"What would someone who disagrees with the ideas in my sources argue?"
-"Which of my sources are you drawing on for that, and which are you ignoring?"
-Follow up on anything interesting. Ask it to elaborate, challenge it, push in a different direction.
+Use the chat to ask questions about your sources. 
+
+*I ask the question: "If my sources were documentation for a design project, what would the final outcome be?"*
+
+*NotebookLM analysed the Sources I provided and offered suggestions in four areas: Data Source and Integration, Technical Execution, Technical Execution, and User Interaction and Medium. It also gave me questions about what I might need to understand further.*
+
 
 4. Generate the Audio Overview:
-Find the Audio Overview option and generate it. Once it's ready, listen with headphones. While you listen, make notes: what did it pick up on that surprised you? What did it get wrong? How does hearing your work discussed feel different from reading the chat responses?
+
+Find the Audio Overview option and generate it. Once it's ready, listen with headphones. While you listen, make notes: 
+
+- what did it pick up on that surprised you?
+
+*This NotebookLM audio is produced as a podcast by a man and a woman. It covers all the content I submitted in the conversation, with the content arranged in an orderly manner, starting with the role of data presentation and progressing step by step. It discusses data sources, data processing, and data presentation one by one. It specifically mentions that the same statistics can present different raw data. Raw data doesn't lie, but statistics may obscure many real situations.*
+
+
+- What did it get wrong? 
+
+*It's not exactly wrong. The audio mentions using VS Code for data processing. While I did use VS Code, it was only as a text editor, and not for data processing.*
+
+
+- How does hearing your work discussed feel different from reading the chat responses?
+
+*I no longer feel so alone in my work, someone has validated my efforts. It makes me feel like my graphic design ideas are being recognised. Based on my design ideas, the audio team gave me a lot of suggestions. They also explained the characteristics of the websites I provided as resources, helping me understand how to use them effectively. At the same time, based on my content, they pointed out that visualising the original data, while looking aesthetically pleasing, isn't the main focus; the priority should be that the audience can quickly understand the data being presented through the graphics. This helped me realise the power of human intuition in charts and graphs, and that designers should learn to harness this intuition.*
 
 # Independent Study: AI-Assisted Data Exploration
 Overview
@@ -118,19 +150,9 @@ What was your experience of working with AI as design tool?
 What would you develop further with more time?
 Any other reflections?
 
-# Documentation 
+# References
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+  OpenAI. (2026). ChatGPT (Mar 28 version) [Large language model]. https://chat.openai.com/chat
 
-## Images & Media
 
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+  OpenAI. (2026). Ollama (Mar 28 version) [Large language model]. https://ollama.com
