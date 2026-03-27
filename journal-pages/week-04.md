@@ -23,9 +23,15 @@ Once downloaded, start a conversation:
 
 ollama run qwen3:1.7b
 
-You're now chatting with an AI model running entirely on your own computer. No data leaves your machine.
+Spend 10 minutes exploring. 
 
-Spend 10 minutes exploring. Try describing data from a previous experiment and asking for visualisation ideas. Ask it to write code. Try something you'd normally ask ChatGPT and compare the response. Try to find its limits.
+*I describe data from a previous experiment and asking for visualisation ideas.*
+
+*Ollama gives me the answer.*
+
+![e13](../assets/week-04/e13.png)
+
+ Ask it to write code. Try something you'd normally ask ChatGPT and compare the response. Try to find its limits.
 
 Pay attention to what feels different: the speed, the quality, the tradeoff between sovereignty and capability. Type /bye to exit.
 
