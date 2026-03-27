@@ -45,13 +45,13 @@ Spend 10 minutes exploring.
 
 Open NotebookLMLinks to an external site. with your University Google account and create a new notebook.
 
-1. Build your notebook:
+1 Build your notebook:
 
 Add sources that represent your experimentation so far on the course. Mix your own work with other sources: your Making Journal URL (GitHub Pages), practitioner websites that resonated with you, data sources or APIs you are curious about, and other creative work you have made or are interested in.
 
 ![e21](../assets/week-04/e21.png)
 
-2. Frame your research:
+2 Frame your research:
 
 Before generating artefacts, add a short document to shape the AI's focus. Open a text editor and write three sentences: 
 
@@ -69,7 +69,7 @@ Before generating artefacts, add a short document to shape the AI's focus. Open 
 
 ![e22](../assets/week-04/e22.png)
 
-3. Explore in the chat:
+3 Explore in the chat:
 
 Use the chat to ask questions about your sources. 
 
@@ -78,7 +78,7 @@ Use the chat to ask questions about your sources.
 *NotebookLM analysed the Sources I provided and offered suggestions in four areas: Data Source and Integration, Technical Execution, Technical Execution, and User Interaction and Medium. It also gave me questions about what I might need to understand further.*
 
 
-4. Generate the Audio Overview:
+4 Generate the Audio Overview:
 
 Find the Audio Overview option and generate it. Once it's ready, listen with headphones. While you listen, make notes: 
 
@@ -97,6 +97,7 @@ Find the Audio Overview option and generate it. Once it's ready, listen with hea
 *I no longer feel so alone in my work, someone has validated my efforts. It makes me feel like my graphic design ideas are being recognised. Based on my design ideas, the audio team gave me a lot of suggestions. They also explained the characteristics of the websites I provided as resources, helping me understand how to use them effectively. At the same time, based on my content, they pointed out that visualising the original data, while looking aesthetically pleasing, isn't the main focus; the priority should be that the audience can quickly understand the data being presented through the graphics. This helped me realise the power of human intuition in charts and graphs, and that designers should learn to harness this intuition.*
 
 # Independent Study: AI-Assisted Data Exploration
+
 Overview
 
 Choose a public dataset about life in Aotearoa New Zealand and use cloud-based AI tools to explore, interpret, and represent the data. The challenge is to go beyond a single prompt, working through sustained dialogue with the AI, directing its decisions, and critically evaluating its outputs.
