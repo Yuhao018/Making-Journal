@@ -33,11 +33,13 @@ Spend 10 minutes exploring.
 
 *I put the same prompt on Chatgpt and give the following answer:* 
 
+![e17](../assets/week-04/e17.png)
+
+*I tried to have these two AI write the same prompt code separately. The result is similar to the above.*
+
+*Compare these two AI tools. In terms of speed, Ollama describes its thought process continuously, and then provides a result after a long time. ChatGPT gives the result directly and is much faster. Regarding quality, Ollama offers suggestions, all in text form, which are useful but not intuitive for graphic design. The code is also in Python, and p5.js can't be used directly. ChatGPT not only provides text descriptions, but also many graphical demonstrations. Moreover, the code it provides can be used directly. In terms of the trade-off between sovereignty and capability, Ollama doesn't require any network connection, and its thought process is completely transparent. The prompts I write are entirely my own. ChatGPT, on the other hand, is the opposite; all prompt ideas become part of the computational resources that are shared.*
 
 
- Ask it to write code. Try something you'd normally ask ChatGPT and compare the response. Try to find its limits.
-
-Pay attention to what feels different: the speed, the quality, the tradeoff between sovereignty and capability. Type /bye to exit.
 
 ## Activity 2: Cloud AI with NotebookLM
 
