@@ -31,6 +31,10 @@ Spend 10 minutes exploring.
 
 ![e13](../assets/week-04/e13.png)
 
+*I put the same prompt on Chatgpt and give the following answer:* 
+
+
+
  Ask it to write code. Try something you'd normally ask ChatGPT and compare the response. Try to find its limits.
 
 Pay attention to what feels different: the speed, the quality, the tradeoff between sovereignty and capability. Type /bye to exit.
