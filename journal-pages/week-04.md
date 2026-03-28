@@ -181,15 +181,29 @@ height="950">
 
 Look at the representations you've produced and reflect on the AI's design choices:
 
-What did the AI default to? (e.g. bar charts, blue colour schemes, generic titles)
-What did you have to override or redirect?
-What assumptions did the AI make about the data or the audience?
+- What did the AI default to? (e.g. bar charts, blue colour schemes, generic titles)
+
+*A black circular and surrounding line diagram showing traffic congestion.*
+
+- What did you have to override or redirect?
+
+*The graphics have already displayed most of the table content on the data. I just made adjustments in color. Make the previously dark areas distinguishable.*
+
+- What assumptions did the AI make about the data or the audience?
+
+*AI assumes the reader of this data is someone interested in Auckland road usage. The reader wants to understand the primary types of vehicles on various busy roads.*
+
 Which representation is the most interesting, and why?
+
+*Based on the map, the busy road areas are mainly in the city centre. However, it's not just the city centre roads that are busy; some remote areas also have busy roads. Correspondingly, there are also some quiet roads in the city centre.*
+
 What would you do differently if you were building this without AI?
-Document Your Process
+
+*I would select single data points from a data table for plotting, such as average daily traffic or car percentage. I would not use data from many columns for creating graphs.*
+
+# Document Your Process
 To capture the full scope of your practice, each entry in the Making Journal must include a mix of visual and textual evidence, such as sketches, screenshots, GIFs, diagrams, process notes, instructions and reflections.
 
-Items on the course Reading List for this week include the introduction to Data Feminism by Catherine D'Ignazio and Lauren F. Klein, and a talk by Kirikowhai Mikaere on Māori data sovereignty. Engage with both of these and draw on them in your reflections.
 
 Include reflective writing that addresses the following:
 
