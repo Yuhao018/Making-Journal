@@ -149,7 +149,7 @@ Ask the AI to produce a visualisation of the data, but don't accept the first ou
 
 <iframe
  src="https://editor.p5js.org/yuhaochen018/full/uEx3NwpB7"
- width="1250"
+ width="1000"
  height="950">
  </iframe>
 
@@ -160,7 +160,7 @@ Ask the AI to produce a visualisation of the data, but don't accept the first ou
 
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/FIdPwNZ7A"
-width="1250"
+width="1000"
 height="950">
 </iframe>
 
@@ -172,7 +172,7 @@ height="950">
 
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/NkbWz1_cx"
-width="1250"
+width="1000"
 height="950">
 </iframe>
 
