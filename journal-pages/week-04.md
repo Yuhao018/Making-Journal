@@ -227,16 +227,18 @@ Include reflective writing that addresses the following:
 
 - What questions do D'Ignazio and Klein's ideas raise for your work with this dataset?
 
+*Their ideas made me think about who the data is shown to, who the audience is, and how I should focus on the collection and presentation of data for vulnerable users. This data only includes vehicle data, so what about road bikes and scooters? Where is the data that these users of other tools need?*
 
 - How does Mikaere's framing of data as a strategic asset for Māori development challenge or inform how you think about the dataset you chose?
 
-
-
+*Mikaere's idea makes me think that a lot of data is closely related to people and culture. Data isn't just numerical tables; it can also represent communities. So who owns this data, and who benefits from it? This also reminds me to be careful and respectful when using data, especially in NZ, and to respect Maori culture.*
 
 - What was your experience of working with AI as design tool?
 
+*Using AI to accomplish tasks is very efficient. It can quickly help me organise the content of spreadsheets and point out any missing data. It's like having an assistant who sorts out all the administrative work for you. AI is also clever. It gives you ideas and helps you check for errors in your code. This also makes my graphic design process faster. However, I still need to use clear prompts to tell it my ideas and guide it through each step of the work. The graphics produced from the code often don't meet the requirements, so I need to understand and modify them.*
 
 - What would you develop further with more time?
+
 
 
 # References
