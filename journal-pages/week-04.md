@@ -146,9 +146,24 @@ Ask the AI to produce a visualisation of the data, but don't accept the first ou
  width="1200"
  height="900">
  </iframe>
- *Auckland Transport Field (OpenAI,2026)
+ *Auckland Transport Field (OpenAI,2026)*
 
-*I've selected five of the busiest roads based on average daily traffic volume. Then, for these five roads, I looked at the most recent five working days. For each road, the solid line represents the average daily traffic, and the corresponding dashed line represents the peak hour traffic. Each road is represented by a different colour. This illustrates the variation in traffic on the busiest roads across different working days.*
+*I've selected Auckland's five busiest roads based on their Average Daily Traffic (ADT). Each rectangle represents a road, with its height indicating the average traffic volume. Different colours are used to distinguish the different roads.*
+
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/5qWTnr1QG"
+width="420"
+height="430">
+</iframe>
+*Auckland Transport Field (OpenAI,2026)*
+
+
+<iframe 
+src="https://editor.p5js.org/yuhaochen018/full/1pJ0BXCQE"
+width="420"
+height="430">
+</iframe>
+*Auckland Transport Field (OpenAI,2026)*
 
 
 For each version, make deliberate design decisions about what to change. You might vary the format (chart, map, interactive page, narrative text), the visual encoding (colour, size, position, shape), or what subset of the data to foreground.
