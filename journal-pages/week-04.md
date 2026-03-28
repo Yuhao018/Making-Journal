@@ -152,6 +152,7 @@ Ask the AI to produce a visualisation of the data, but don't accept the first ou
  width="1250"
  height="950">
  </iframe>
+
  *Auckland Transport Field (OpenAI,2026)*
 
 *I divide average daily traffic into four quartiles and use colors to represent these levels. Warmer colors indicate higher flow rates, while colder colors indicate lower flow rates. This allows the audience to quickly understand the scale and distribution of transportation in Auckland.*
@@ -160,8 +161,9 @@ Ask the AI to produce a visualisation of the data, but don't accept the first ou
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/FIdPwNZ7A"
 width="1250"
-heigth="950">
+height="950">
 </iframe>
+
 *Auckland Transport Field (OpenAI,2026)*
 
 
@@ -171,7 +173,7 @@ heigth="950">
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/NkbWz1_cx"
 width="1250"
-heigth="950">
+height="950">
 </iframe>
 
 *Auckland Transport Field (OpenAI,2026)*
