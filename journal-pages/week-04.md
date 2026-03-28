@@ -102,30 +102,55 @@ Overview
 
 Choose a public dataset about life in Aotearoa New Zealand and use cloud-based AI tools to explore, interpret, and represent the data. The challenge is to go beyond a single prompt, working through sustained dialogue with the AI, directing its decisions, and critically evaluating its outputs.
 
-Step 1: Find a Dataset
+## Step 1: Find a Dataset
 
 Browse the open data catalogue at catalogue.data.govt.nzLinks to an external site. and find a dataset that interests you. Look for something with a downloadable CSV file that is small enough to upload into a cloud AI tool (aim for under 10MB, or a few thousand rows).
 
-Choose something you find genuinely interesting. The data should relate to a real aspect of life in Aotearoa that you would want to explore further.
+*I've chosen Auckland Transport's Average Daily Traffic Counts and want to understand the daily traffic situation in Auckland. I'd also like the AI tool to recommend some good ways to display the data and provide suggestions.*
 
-Step 2: Understand the Data
+## Step 2: Understand the Data
 
-Upload your CSV into a cloud AI tool (e.g. CoPilot, Gemini, NotebookLM, ChatGPT) and have a conversation about it. Ask the AI to explain what is in the dataset: what the columns mean, what the values represent, how much data there is, and what is missing or incomplete.
+*I initially chose NotebookLM to upload a CSV file. Although my CSV file was only 2.2MB, it took a very long time to upload without success. So, I opted for the familiar ChatGPT instead, and it uploaded successfully very quickly.*
+
+*I have a conversation about it with ChatGPT. I ask the AI to explain what is in the dataset: what the columns mean, what the values represent, how much data there is, and what is missing or incomplete.*
+
+![p21](../assets/week-04/p21.png)
 
 Consider:
 
-What stories might this data contain?
-What questions could it answer?
-What biases or gaps are present?
-Who collected this data, and for what purpose?
+- What stories might this data contain?
 
-Step 3: Design Multiple Representations
+*This table shows which roads in Auckland are busy and which are quiet. This is representative of population movement in the city. The vehicle type percentages indicate the extent to which people rely on cars.*
+
+- What questions could it answer?
+
+*Which roads in Auckland have the highest traffic volume? What is the proportion of cars in the traffic on these roads?*
+
+- What biases or gaps are present?
+
+*Some columns in the table, such as peak_hour and vehicle type, have incomplete data. This incompleteness in the statistical data means that conclusions about road conditions may be skewed.*
+
+- Who collected this data, and for what purpose?
+
+*It is collected by Auckland Transport. The purpose is to monitor traffic flow across the city and improve the transport system.*
+
+
+## Step 3: Design Multiple Representations
 
 Ask the AI to produce a visualisation of the data, but don't accept the first output. Direct the AI: specify the form, the visual encoding, the audience, the story you want to tell. Iterate through at least three distinctly different representations of the same data. These could be code-based (e.g. p5.js or HTML), textual, visual, or even prompts for physical/analogue translations.
 
+<iframe
+ src="https://editor.p5js.org/yuhaochen018/full/uEx3NwpB7"
+ width="1200"
+ height="900">
+ </iframe>
+
+*I've selected five of the busiest roads based on average daily traffic volume. Then, for these five roads, I looked at the most recent five working days. For each road, the solid line represents the average daily traffic, and the corresponding dashed line represents the peak hour traffic. Each road is represented by a different colour. This illustrates the variation in traffic on the busiest roads across different working days.*
+
+
 For each version, make deliberate design decisions about what to change. You might vary the format (chart, map, interactive page, narrative text), the visual encoding (colour, size, position, shape), or what subset of the data to foreground.
 
-Step 4: Critically Evaluate
+## Step 4: Critically Evaluate
 
 Look at the representations you've produced and reflect on the AI's design choices:
 
