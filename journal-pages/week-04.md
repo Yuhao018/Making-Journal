@@ -139,11 +139,14 @@ Consider:
 
 Ask the AI to produce a visualisation of the data, but don't accept the first output. Direct the AI: specify the form, the visual encoding, the audience, the story you want to tell. Iterate through at least three distinctly different representations of the same data. These could be code-based (e.g. p5.js or HTML), textual, visual, or even prompts for physical/analogue translations.
 
+*The first output by ChatGPT*
+
 <iframe
  src="https://editor.p5js.org/yuhaochen018/full/uEx3NwpB7"
  width="1200"
  height="900">
  </iframe>
+ *Auckland Transport Field (OpenAI,2026)
 
 *I've selected five of the busiest roads based on average daily traffic volume. Then, for these five roads, I looked at the most recent five working days. For each road, the solid line represents the average daily traffic, and the corresponding dashed line represents the peak hour traffic. Each road is represented by a different colour. This illustrates the variation in traffic on the busiest roads across different working days.*
 
