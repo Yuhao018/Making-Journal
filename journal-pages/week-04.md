@@ -239,7 +239,7 @@ Include reflective writing that addresses the following:
 
 - What would you develop further with more time?
 
-
+*In the future, I would like to explore the application of interactive controls in Average Daily Traffic,such as enabling the image to switch interactively between average daily data and average peak hour data. I would also like to try using 3D graphics in p5.js to display more dynamic data.*
 
 # References
 
