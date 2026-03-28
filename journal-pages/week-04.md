@@ -23,8 +23,6 @@ Once downloaded, start a conversation:
 
 ollama run qwen3:1.7b
 
-Spend 10 minutes exploring. 
-
 *I describe data from a previous experiment and asking for visualisation ideas.*
 
 *Ollama gives me the answer.*
