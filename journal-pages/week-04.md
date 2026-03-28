@@ -139,30 +139,41 @@ Consider:
 
 Ask the AI to produce a visualisation of the data, but don't accept the first output. Direct the AI: specify the form, the visual encoding, the audience, the story you want to tell. Iterate through at least three distinctly different representations of the same data. These could be code-based (e.g. p5.js or HTML), textual, visual, or even prompts for physical/analogue translations.
 
-*The first output by ChatGPT*
+*The first output by ChatGPT.*
+*Position on page = real road location in Auckland*
+*Circle size = average daily traffic*
+*Small lines around the circle = vehicle mix*
+  *long spoke = more cars*
+  *other spokes = light commercial, medium commercial, heavy vehicles, buses*
+*Red ring / hollow mark = missing or incomplete data*
 
 <iframe
  src="https://editor.p5js.org/yuhaochen018/full/uEx3NwpB7"
- width="1200"
- height="900">
+ width="1250"
+ height="950">
  </iframe>
  *Auckland Transport Field (OpenAI,2026)*
 
-*I've selected Auckland's five busiest roads based on their Average Daily Traffic (ADT). Each rectangle represents a road, with its height indicating the average traffic volume. Different colours are used to distinguish the different roads.*
+*I divide average daily traffic into four quartiles and use colors to represent these levels. Warmer colors indicate higher flow rates, while colder colors indicate lower flow rates. This allows the audience to quickly understand the scale and distribution of transportation in Auckland.*
+
 
 <iframe 
-src="https://editor.p5js.org/yuhaochen018/full/5qWTnr1QG"
-width="420"
-height="430">
+src="https://editor.p5js.org/yuhaochen018/full/FIdPwNZ7A"
+width="1250"
+heigth="950">
 </iframe>
 *Auckland Transport Field (OpenAI,2026)*
 
 
+
+
+
 <iframe 
-src="https://editor.p5js.org/yuhaochen018/full/1pJ0BXCQE"
-width="420"
-height="430">
+src="https://editor.p5js.org/yuhaochen018/full/NkbWz1_cx"
+width="1250"
+heigth="950">
 </iframe>
+
 *Auckland Transport Field (OpenAI,2026)*
 
 
