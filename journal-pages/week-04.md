@@ -166,9 +166,7 @@ height="950">
 
 *Auckland Transport Field (OpenAI,2026)*
 
-
-
-
+*In the final version, I adjusted the position of the illustration. Simultaneously set the graphic color to transparent. This style makes the data feel more in line with human visual perception. It looks more comfortable.*
 
 <iframe 
 src="https://editor.p5js.org/yuhaochen018/full/NkbWz1_cx"
@@ -178,8 +176,6 @@ height="950">
 
 *Auckland Transport Field (OpenAI,2026)*
 
-
-For each version, make deliberate design decisions about what to change. You might vary the format (chart, map, interactive page, narrative text), the visual encoding (colour, size, position, shape), or what subset of the data to foreground.
 
 ## Step 4: Critically Evaluate
 
