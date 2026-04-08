@@ -21,6 +21,7 @@ layout: default
 *I want to make two graphics areas, one above the other. The top graphics area will display a world map showing the number of tourists arriving from major countries, categorised by month, and displayed as circles. The purpose of their visit, based on Stats NZ data (work, tourism, visiting friends and relatives), will be represented by three different colours. The tourist data table contains the latest data from February 2023 to January 2026, a total of 36 periods. A scroll bar will allow users to display different periods. The bottom chart area will be a line graph where users can select one or more countries to display data changes over the last 3 years. See the image below for the specific style.*
 
 ![My idea](../assets/week-05/myidea.png)
+                  *My idea*
 
 *Tourism has always been one of NZ’s main industries. From my graphs, professionals in this industry can understand where tourists are coming from, enabling them to design targeted service products to meet tourist needs. Industry researchers in NZ can observe the structure of international tourists and formulate relevant policies to promote the economic development of the industry. The changes in tourist numbers from different countries at different times can be used by tourism professionals to develop marketing strategies corresponding to different regions.*
 
