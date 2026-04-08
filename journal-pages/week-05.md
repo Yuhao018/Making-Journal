@@ -6,13 +6,15 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+# Reflective Proposal
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+## Review and Reflect
 
-## Images & Media
+*Over the past four weeks of study, I have most enjoyed using p5.js to make dynamic graphics. These visuals are more engaging for the reader compared to text. Going forward, I’d like to visualise everyday data, such as turning traffic, weather, and environmental information into graphics. Ideally, these everyday graphics would have interactive features to let users access the information they’re interested in. During the four weeks of practice, I shared my ideas with my peers via messaging apps to get their feedback. I hope the project will be a dynamic, interactive graphic. The interactive controls should include sliders and dropdown menus. Users can select different times using the sliders and choose different query objects using the dropdown menus.*
 
-*Use the format below to embed images from your assets folder:*
+## Thematic Focus and Data Source(s)
+
+**
 
 `![Alt text](../assets/week-01/your-image.jpg)`
 `*Your caption here*`
