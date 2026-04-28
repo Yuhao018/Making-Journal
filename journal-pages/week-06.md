@@ -56,6 +56,15 @@ I like using circles to represent data size, as this creates a clear visual impa
 
 ![Australia](../assets/week-06/australia.png)
 
+A choropleth map that visualizes the fraction of Australians that identified as Anglican at the 2011 census (Wikipedia, n.d.).
+
+Reference:
+
+Wikipedia. (n.d.). Choropleth map. Wikipedia. https://en.wikipedia.org/wiki/Choropleth_map
+
+Colour gradients make data differences stand out clearly. I might use varying colour depths to represent different categories. That makes me think about combining colour with circle size, it might express things more clearly.
+
+
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
