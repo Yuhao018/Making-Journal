@@ -64,6 +64,13 @@ Wikipedia. (n.d.). Choropleth map. Wikipedia. https://en.wikipedia.org/wiki/Chor
 
 Colour gradients make data differences stand out clearly. I might use varying colour depths to represent different categories. That makes me think about combining colour with circle size, it might express things more clearly.
 
+### Interactive map dashboards
+
+![New York](../assets/week-06/ny.jpg)
+
+
+
+
 
 ## AI Usage Statement
 
