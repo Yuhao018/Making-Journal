@@ -98,6 +98,17 @@ Once the data is prepared, I will begin constructing the base map using a GeoJSO
 
 Next, I will implement interactive features such as a time slider and checkboxes for filtering different countries. Subsequently, I'll test the visualisations to check their readability and ease of use, optimising them through iteration. This includes adjusting colour choices, circle sizes, and interaction behaviours.
 
+# Independent Study
+
+## Consultation Reflection
+
+During the proposal consultation, I outlined my project goals, vision, and data sources, including the use of tourism arrival data from Stats NZ, and my initial visualisation plans using p5.js. The tutor gave positive feedback and showed interest in the topic. This reassured me that my design direction was correct and gave me more confidence to continue. While no major changes were suggested, the discussion helped me confirm that the idea was appropriate and practical.
+
+The exchange also helped me clarify the specific implementation of the visualisation scheme. I explained my plan to create an interactive map showing the number of tourists from eight countries, using the size and colour of circles to represent different data values. I also mentioned adding a time slider to show monthly changes, and a line chart below the map to present time trends. Exploring these ideas helped to clarify the project goals and data structure.
+
+In the subsequent development of the project's visualisation and interactive features, I will pay more attention to visual effects, making the data easier for readers to understand, and ensuring the interactive functions support in-depth data exploration.
+
+
 
 
 
