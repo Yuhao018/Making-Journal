@@ -118,7 +118,7 @@ Through this process, I learned the structure of GeoJSON data and how to determi
 
 ## Initial Concept Sketch
 
-
+![design sketch](../assets/week-06/design1.png)
 
 
 
