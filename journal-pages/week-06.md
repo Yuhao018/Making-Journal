@@ -68,6 +68,14 @@ Colour gradients make data differences stand out clearly. I might use varying co
 
 ![New York](../assets/week-06/ny.jpg)
 
+The invisible heartbeat of New York City (Tableau Software, n.d.).
+
+Reference:
+
+Tableau Software. (n.d.). 10 examples of interactive map data visualizations. https://www.tableau.com/learn/articles/interactive-map-and-data-visualization-examples
+
+This temporal interaction allows users to explore data in multiple ways. I’d like to add a hover interaction feature that displays detailed information such as the number of visitors for different purposes and their proportions. I will design the project to be more interactive, rather than a static chart.
+
 
 
 
