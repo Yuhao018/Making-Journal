@@ -78,7 +78,8 @@ This temporal interaction allows users to explore data in multiple ways. I’d l
 
 ## Project Planning and Skills Roadmap
 
-![design sketch](../assets/week-06/design sketch.png)
+![design sketch](../assets/week-06/designsketch.png)
+
 
 
 
