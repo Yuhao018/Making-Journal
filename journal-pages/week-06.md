@@ -29,7 +29,18 @@ Our World in Data. (n.d.). Tourism. https://ourworldindata.org/tourism
 
 This map uses varying shades of blue to represent the differences between countries, making the global tourism landscape clear briefly. I can use these varying colour intensities to reflect differences in the number of tourists. This aligns with my idea of using a world map and prompts me to think more carefully about visual hierarchy.
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+### Population (Maps)
+![Population](../assets/week-06/population.png)
+
+Population 2024 (Gapminder Foundation, n.d.).
+
+Reference:
+
+Gapminder Foundation. (n.d.). Map. https://www.gapminder.org/tools/#$chart-type=map&url=v2
+
+These dynamic bubbles make the data appear lively. I want to represent the data values through the size of the bubbles. I’ll add a time slider interactive feature to perfect my project.
+
+
 
 ## AI Usage Statement
 
