@@ -76,6 +76,9 @@ Tableau Software. (n.d.). 10 examples of interactive map data visualizations. ht
 
 This temporal interaction allows users to explore data in multiple ways. I’d like to add a hover interaction feature that displays detailed information such as the number of visitors for different purposes and their proportions. I will design the project to be more interactive, rather than a static chart.
 
+## Project Planning and Skills Roadmap
+
+
 
 
 
