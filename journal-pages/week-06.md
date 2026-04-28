@@ -40,6 +40,18 @@ Gapminder Foundation. (n.d.). Map. https://www.gapminder.org/tools/#$chart-type=
 
 These dynamic bubbles make the data appear lively. I want to represent the data values through the size of the bubbles. I’ll add a time slider interactive feature to perfect my project.
 
+### Dot distribution map
+
+![Berlin](../assets/week-06/berlin.png)
+
+Dot distribution map in Berlin (CARTO, n.d.).
+
+Reference:
+
+CARTO. (n.d.). 80 data visualization examples using location data maps. https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/
+
+I like using circles to represent data size, as this creates a clear visual impact. I’ll use circles placed on countries, with the size of the circle representing the number of visitors. This aligns with my idea of using circular icons rather than solid areas.
+
 
 
 ## AI Usage Statement
