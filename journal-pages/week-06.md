@@ -108,6 +108,15 @@ The exchange also helped me clarify the specific implementation of the visualisa
 
 In the subsequent development of the project's visualisation and interactive features, I will pay more attention to visual effects, making the data easier for readers to understand, and ensuring the interactive functions support in-depth data exploration.
 
+## Technical Skill Building
+
+The first technical gap I am concerned about is learning how to load and draw GeoJSON world maps in p5. js. This is an important step in my project, as maps are the foundational layer for visualizing tourist data.
+
+I first downloaded a world map file in GeoJSON format and placed it in my project folder. I use the loadJSON() function in p5. js to load files in the preload() function. Then, I learned the structure of GeoJSON files and learned how to locate graphic coordinates.
+
+Through this process, I learned the structure of GeoJSON data and how to determine geographic coordinates.
+
+## Initial Concept Sketch
 
 
 
@@ -115,6 +124,4 @@ In the subsequent development of the project's visualisation and interactive fea
 
 
 
-## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
