@@ -80,6 +80,25 @@ This temporal interaction allows users to explore data in multiple ways. I’d l
 
 ![design sketch](../assets/week-06/designsketch.png)
 
+I want to create an interactive NZ tourist statistics chart using p5.js. The upper part displays a world map showing visitor data to New Zealand from eight major countries. Each country is represented by a circle located at its geographical centre. The size of the circle represents the number of tourists, and the three colour blocks on the circle represent the number of tourists for different purposes. Users can view changes in monthly data via a time slider. The lower part uses line charts to show changes in the number of tourists from different countries, selectable via checkboxes.
+
+I need to learn:
+
+How to load data table and GeoJSON in P5.js.
+
+How to convert latitude and longitude into screen coordinates and draw world maps.
+
+Use createSlider() and createCheckbox() to control time and filter data.
+
+How to display the data using P5.js.
+
+The next steps involve preparing and cleaning the dataset for use in p5.js. Visitor data from Stats NZ (Statistics New Zealand) needs to be converted from a pivot table into a flattened format, and categorised by country, month, and purpose. Following this, I will gather the coordinates for the central locations of 8 countries. Simultaneously, I'll ensure the consistency of country names across all datasets.
+
+Once the data is prepared, I will begin constructing the base map using a GeoJSON file, and test how to draw it correctly in p5.js. After the map is running properly, I will add circles to represent visitor numbers, and experiment with using different colour classifications to represent the number of visitors for different purposes of visit. I also want to use line graphs to show changes in visitor data for each country.
+
+Next, I will implement interactive features such as a time slider and checkboxes for filtering different countries. Subsequently, I'll test the visualisations to check their readability and ease of use, optimising them through iteration. This includes adjusting colour choices, circle sizes, and interaction behaviours.
+
+
 
 
 
