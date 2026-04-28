@@ -52,7 +52,9 @@ CARTO. (n.d.). 80 data visualization examples using location data maps. https://
 
 I like using circles to represent data size, as this creates a clear visual impact. I’ll use circles placed on countries, with the size of the circle representing the number of visitors. This aligns with my idea of using circular icons rather than solid areas.
 
+### Choropleth map
 
+![Australia](../assets/week-06/australia.png)
 
 ## AI Usage Statement
 
