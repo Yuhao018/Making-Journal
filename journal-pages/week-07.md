@@ -66,18 +66,28 @@ Step 3, I imported this new CSV file into p5.js. I wrote a clear prompt for Chat
 
 Programe by the prompt (OpenAI, 2026).
 
+## 'What if' Variations
+
+Three suggestions:
+
+What if the chart was centred better and had more balanced spacing? The whole chart looks slightly left, and some labels overlap.
+
+What if you don't allow multiple countries to be selected and compare them at the same time?
+
+What if the line chart includes a label next to the lines, so users don’t need to guess which line is which?
+
+I choose 'What if the chart was centred better? The whole chart looks slightly left, and some labels overlap.'
+
+My plan:
+I will move the whole chart slightly to the right.
+
+The Y-axis title ‘Number of Visitors’ overlaps with the axis numbers. I’ll move the label further left and reduce font size.
+
+The date labels are too high, and the axis title is too low to read. I’ll move date labels slightly down and move axis title closer to the axis.
 
 
-*Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
 
 # References
   OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
