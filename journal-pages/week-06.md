@@ -110,7 +110,9 @@ In the subsequent development of the project's visualisation and interactive fea
 
 ## Technical Skill Building
 
-The first technical gap I am concerned about is learning how to load and draw GeoJSON world maps in p5. js. This is an important step in my project, as maps are the foundational layer for visualizing tourist data.
+The technical gap I am concerned about is learning how to clean the original data. I need to change it into a CSV format and upload it in p5.js.
+
+I need to understand the loop statements, scripts and parameters in p5.js. I want to know about variables and how to use them.
 
 I first downloaded a world map file in GeoJSON format and placed it in my project folder. I use the loadJSON() function in p5. js to load files in the preload() function. Then, I learned the structure of GeoJSON files and learned how to locate graphic coordinates.
 
