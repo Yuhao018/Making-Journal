@@ -85,9 +85,15 @@ The Y-axis title ‘Number of Visitors’ overlaps with the axis numbers. I’ll
 
 The date labels are too high, and the axis title is too low to read. I’ll move date labels slightly down and move axis title closer to the axis.
 
+# Independent Study
 
+## Project Development & Skill Building
 
+![prototype2](../assets/week-07/prototype2.png)
 
+The date labels need to move lower. The X-axis title needs to be moved closer to the axis. The spaces of the checkboxes are not same. All the drawings need to be moved to left slightly.
+
+## Progress Report
 
 # References
   OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
