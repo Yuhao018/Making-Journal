@@ -111,17 +111,17 @@ This process helped me develop my idea to prototype. I can show real data in my 
 
 ## Progress Report
 
-![slider1](../assets/week-07/s1.png)
+![slider1](../assets/week-07/s11.png)
 
-![slider2](../assets/week-07/s2.png)
+![slider2](../assets/week-07/s21.png)
 
-![slider3](../assets/week-07/s3.png)
+![slider3](../assets/week-07/s31.png)
 
-![slider4](../assets/week-07/s4.png)
+![slider4](../assets/week-07/s41.png)
 
-![slider5](../assets/week-07/s5.png)
+![slider5](../assets/week-07/s51.png)
 
-![slider6](../assets/week-07/s6.png)
+![slider6](../assets/week-07/s61.png)
 
 ![slider7](../assets/week-07/s71.png)
 
