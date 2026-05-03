@@ -70,9 +70,9 @@ Programe by the prompt (OpenAI, 2026).
 
 Three suggestions:
 
-What if the chart was centred better and had more balanced spacing? The whole chart looks slightly left, and some labels overlap.
+What if the chart was centred better? The whole chart looks slightly left, and some labels overlap.
 
-What if you don't allow multiple countries to be selected and compare them at the same time?
+What if the spaces between the checkboxes are not same?
 
 What if the line chart includes a label next to the lines, so users don’t need to guess which line is which?
 
@@ -92,6 +92,22 @@ The date labels are too high, and the axis title is too low to read. I’ll move
 ![prototype2](../assets/week-07/prototype2.png)
 
 The date labels need to move lower. The X-axis title needs to be moved closer to the axis. The spaces of the checkboxes are not same. All the drawings need to be moved to left slightly.
+
+![prototype3](../assets/week-07/prototype3.png)
+
+Based on the issues in prototype 2, I've adjusted the overall structure of the graphic. The dates on the X-axis have also been adjusted.
+
+What I tried
+
+I continued developing the line chart prototype and improving the layout. I changed the original Stats NZ data into a usable CSV format. I used variables, loops, and basic drawing functions to build the line chart. I also tried adjusting positions, margins, and spacing to improve the layout.
+
+What I learned
+
+I learned how to clean and structure data before using it. The original data was not able to use, so I had to reorganise it step by step. I also learned how to use loops in p5.js to draw lines for multiple countries. Variables helped me store values like visitor numbers.
+
+How this moved my project forward
+
+
 
 ## Progress Report
 
