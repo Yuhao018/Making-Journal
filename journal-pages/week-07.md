@@ -107,9 +107,11 @@ I learned how to clean and structure data before using it. The original data was
 
 How this moved my project forward
 
-
+This process helped me develop my idea to prototype. I can show real data in my visualisation now. My line chart is clearer when I used colours to differ countries. I can show multiple countries to compare.
 
 ## Progress Report
+
+This process helped me develop my idea to prototype. I can show real data in my visualisation now. My line chart is clearer when I used colours to differ countries. I can show multiple countries to compare.
 
 # References
   OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
