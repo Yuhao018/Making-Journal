@@ -123,7 +123,7 @@ This process helped me develop my idea to prototype. I can show real data in my 
 
 ![slider6](../assets/week-07/s6.png)
 
-![slider7](../assets/week-07/s7.png)
+![slider7](../assets/week-07/s71.png)
 
 # References
   OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
