@@ -62,7 +62,7 @@ Step 3, I imported this new CSV file into p5.js. I wrote a clear prompt for Chat
 
 ![prototype1](../assets/week-07/prototype1.png)
 
-<iframe src="https://editor.p5js.org/yuhaochen018/full/kQTizmEBf"></iframe>
+<iframe src="https://editor.p5js.org/yuhaochen018/full/kQTizmEBf" width="800" height="600"></iframe>
 
 Programe by the prompt (OpenAI, 2026).
 
