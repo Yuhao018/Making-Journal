@@ -52,6 +52,22 @@ I will add a short note ‘These are the top 8 visitor countries to New Zealand.
 
 ## Making Sprint
 
+I develop the line chart in this making sprint. According to the feedback, I wanted to make the data easier to read. In this experiment, I used different colours for each country line and checkbox.
+
+Step 1, I cleaned the original data which downloaded from Stats NZ. The original data was in a pivot-table style, so it cannot be used in p5.js directly. I changed it into a CSV format, with columns such as country, month, purpose, and visitor number.
+
+Step 2, I used an Excel pivot table to reorganise the cleaned data. I grouped the data by the same country and the same month. Then I added the different goals’ visitors. This helped me create a new CSV file for the line chart.
+
+Step 3, I imported this new CSV file into p5.js. I wrote a clear prompt for ChatGPT, explaining the layout, chart position, country colours, checkbox positions, and what I wanted the line chart to show. I finished my first line chart prototype.
+
+![prototype1](../assets/week-07/prototype1.png)
+
+<iframe src="https://editor.p5js.org/yuhaochen018/full/kQTizmEBf"></iframe>
+
+Programe by the prompt (OpenAI, 2026).
+
+
+
 *Use the format below to embed images from your assets folder:*
 
 `![Alt text](../assets/week-01/your-image.jpg)`
@@ -62,3 +78,6 @@ I will add a short note ‘These are the top 8 visitor countries to New Zealand.
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+# References
+  OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
