@@ -14,23 +14,23 @@ layout: default
 
 Feedback I received：
 
-*The map with pie charts looks clear and easy to understand at first glance.*
+*1. The map with pie charts looks clear and easy to understand at first glance.*
 
-*Why did you only choose 8 countries? Are they the top visitors or random?*
+*2. Why did you only choose 8 countries? Are they the top visitors or random?*
 
-*The slider for time is a good idea. It helps show change over months.*
+*3. The slider for time is a good idea. It helps show change over months.*
 
-*In the line chart, how can I tell which line belongs to which country?*
+*4. In the line chart, how can I tell which line belongs to which country?*
 
-*Using pie charts to show different purposes is interesting.*
+*5. Using pie charts to show different purposes is interesting.*
 
-*Why not use a dropdown menu instead of checkboxes to select countries?*
+*6. Why not use a dropdown menu instead of checkboxes to select countries?*
 
-*Australia has a much bigger pie chart. It shows strong comparison.*
+*7. Australia has a much bigger pie chart. It shows strong comparison.*
 
-*The layout of the map on top and chart below is easy to read.*
+*8. The layout of the map on top and chart below is easy to read.*
 
-*What is the focus of your design? Comparison between countries, or change over time?*
+*9. What is the focus of your design? Comparison between countries, or change over time?*
 
 What surprised me
 
