@@ -6,18 +6,35 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+# In-Class Activities
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+## Progress Reports
 
-## Images & Media
+Feedback received from my progress report:
 
-*Use the format below to embed images from your assets folder:*
+Technical Feedback
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+The current line graphs are easy to read, especially with the use of colour to separate countries and the improved spacing. There was agreement that converting the original tourism dataset to CSV format and combining different travel purposes into one system was a strong technical improvement.
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+They also discussed the next development stages involving the world map and pie charts. A peer suggested I could consider how much information is displayed at once, as too much data may be difficult to read. Another suggested improving the interaction design by allowing users to focus on specific countries or specific travel purposes individually. The feedback also suggested I could try different ways to represent the data, rather than only depending on traditional charts.
+
+Conceptual Feedback
+
+An important point raised by peers was that the project should go beyond simply displaying numbers, and instead convey the relationships between countries, tourist numbers and travel purposes. A peer suggested exploring why tourists from different countries visit New Zealand for different purposes, and whether cultural background, distance or season might influence tourist behaviour. The tutor suggested I think about whether the visualisation could allow the audience to interact with the data in different ways.
+
+
+# Independent Study
+
+## Reflective Summary
+
+Although at the time of my report, the development progress was only halfway completed. But based on the feedback from the progress report, I began to rethink the technical implementation and concept transfer of the data visualization project. The most important information in the feedback is that this project should not only be a graphical display of tourism statistics, but also convey the relationship between different countries and personnel mobility. This has transformed my understanding of projects from simply presenting digital information to creating more meaningful narratives through the combination of data and text.
+
+The feedback mentioned that users can select individual countries or travel destinations to filter the data, so as to clearly monitor the changes in specific data. This is a great suggestion. I want to try to do it. But I feel that data filtering is a bit difficult for the program, and I don't know if it can be successful. But it can be a direction for experimentation, as it allows the audience to explore deeper information.
+
+Another suggestion in the feedback is to consider how to make the charts more interactive and enhance the user experience. My current approach is to set up a line chart with country selection, allowing users to view the changing trends of tourists from different countries. Set a time slider on the map, and the pie chart on the map will change over time. To increase the overall readability of the data, it is possible to increase the distance from the center point to various countries, with New Zealand as the central point.
+
+This feedback also allowed me to explore the deeper meaning of these tourism data themselves. Colleagues question why tourists from different countries have different travel patterns and what social or cultural factors influence these patterns. In the future, I hope to further investigate these associations and use visualization not only as a tool for presenting data, but also as a medium for conveying different social behaviors. This will help expand my design thinking, explore the depth of the project and the breadth of its applications.
+
 
 ## AI Usage Statement
 
