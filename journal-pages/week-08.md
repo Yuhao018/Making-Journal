@@ -55,6 +55,9 @@ The overall image is too high, and the text and slider need to be adjusted downw
 Result after adjustments:
 <iframe src="https://editor.p5js.org/yuhaochen018/full/prQMoQ-k_" width="800" height="600"></iframe>
 
+What I learned:
+
+After re-uploading the JSON, as long as the filename remains the same, there's no need to adjust the program. The system updates automatically.
 
 # References
   OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
