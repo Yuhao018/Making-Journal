@@ -35,7 +35,27 @@ Another suggestion in the feedback is to consider how to make the charts more in
 
 This feedback also allowed me to explore the deeper meaning of these tourism data themselves. Colleagues question why tourists from different countries have different travel patterns and what social or cultural factors influence these patterns. In the future, I hope to further investigate these associations and use visualization not only as a tool for presenting data, but also as a medium for conveying different social behaviors. This will help expand my design thinking, explore the depth of the project and the breadth of its applications.
 
+## Project Development
 
-## AI Usage Statement
+This week's development has primarily focused on the unfinished upper portion of the world map and the time slider section.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+Results of the initial development:
+<iframe src="https://editor.p5js.org/yuhaochen018/full/4ocAbeud3" width="800" height="600"></iframe>
+
+Programe by the prompt (OpenAI, 2026).
+
+Main issues with this version:
+
+The world map JSON includes Antarctica, so the world map JSON needs to be re-downloaded.
+
+World map visual distortion. The world map height needs to be reduced.
+
+The overall image is too high, and the text and slider need to be adjusted downwards.
+
+Result after adjustments:
+<iframe src="https://editor.p5js.org/yuhaochen018/full/prQMoQ-k_" width="800" height="600"></iframe>
+
+
+# References
+  OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
+
