@@ -70,5 +70,5 @@ What I learned:
 After re-uploading the JSON, as long as the filename remains the same, there's no need to adjust the program. The system updates automatically.
 
 # References
-  OpenAI. (2026). ChatGPT (May 1 version) [Large language model]. https://chat.openai.com/chat
+  OpenAI. (2026). ChatGPT (May 13 version) [Large language model]. https://chat.openai.com/chat
 
