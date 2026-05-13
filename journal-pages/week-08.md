@@ -22,6 +22,16 @@ Conceptual Feedback
 
 An important point raised by peers was that the project should go beyond simply displaying numbers, and instead convey the relationships between countries, tourist numbers and travel purposes. A peer suggested exploring why tourists from different countries visit New Zealand for different purposes, and whether cultural background, distance or season might influence tourist behaviour. The tutor suggested I think about whether the visualisation could allow the audience to interact with the data in different ways.
 
+## Critical Design Propositions
+
+My parter's project is emotion data visualisation.
+
+This project treats emotions as data. Emotions are categorised into four aspects: happy, calm, stress, and sad, each represented by a different colour. The intensity is then indicated by size, the time by position, and changes by movement, recording the evolution of these emotions over several days with an intensity from 1 to 5. I think this representation is easy to understand at a glance. The idea of transforming personal emotions into visualisations is also novel.
+
+Currently, the area for improvement in this project is to clarify who the target users are and what benefits they will gain from using this system.
+
+My Design Proposition is to plan this as an interactive emotional diary map. Users regularly record their emotional state each day. Dates can be set as the horizontal axis, and each day's time can be set as a vertical axis. Add a categorisation of the reasons for each emotion. Each reason appears as a differently shaped graphic. The shape's colour represents the four emotion types, and the size reflects the emotion intensity from 1-5. Shapes of different colours and sizes are displayed on the timeline. Through this record, users can observe their daily emotional changes and discover the reasons.
+
 
 # Independent Study
 
