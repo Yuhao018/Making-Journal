@@ -40,9 +40,25 @@ In developing this work, I am engaging **critically** with how we represent numb
 Ultimately, I intend for this visualisation to let the public appreciate the **data’s impact** more intuitively. I want you to be able to explore the data for yourselves, uncovering deeper insights into New Zealand’s tourism industry that professionals can use to design targeted services and marketing strategies.
 
 ### Evaluation
+1. What is working well?
+
+   This draft combines interactive data visualisation with future applications. Maps, pie charts, sliders and filters make tourism data interactive and dynamic over time.
+
+2. What is missing or underdeveloped?
+
+   The piece on future oil price increases is well-written, although a clearer explanation of how this impacts tourism traffic would be beneficial. Trend data in a line graph would be more insightful if broken down by different travel purposes.
+
+3. What feels overly generalised or AI-like?
+
+   Some of the content is too conceptual, such as 'meaningful narratives' and 'deeper insights'. There is a lack of specific examples illustrating which users could gain useful information from this visualisation.
+
+4. What do you need to research further?
+
+   I need to transform tourist data for different travel destinations into interactive, filterable, dynamic charts. Furthermore, I need to conduct in-depth research into interactive visual storytelling, explaining the effects of user autonomy and engagement that this approach brings.
+
+5. Write one sentence that commits to the direction of your project.
+
+   The direction of this project is to develop an interactive tourism visualisation that helps users explore how global economic and social changes  influence travel to New Zealand.
 
 
 
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
