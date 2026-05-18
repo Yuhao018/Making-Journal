@@ -69,5 +69,9 @@ This interactive map and line graph are easy to understand. The interactive map 
 
 I think some explanatory text could help users better understand how the chart tells its story.
 
+## Making Sprint
 
+![picmiro](../assets/week-09/picmiro.png)
+
+## Round Robin Rapid Reactions
 
