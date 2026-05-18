@@ -6,18 +6,28 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+# In-Class Activities 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+## Project Statement: First Draft
 
-## Images & Media
+### Case Study
+1. What data sources were used in this work?
 
-*Use the format below to embed images from your assets folder:*
+The data source for this project is labour and population data from the United States. It includes data from approximately 30 million Americans and allocated work tasks, as well as randomly generated machine data.
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+2. What future scenario does it address?
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+It seeks to simulate a scenario of what society would be like in a situation where labour tasks are randomly allocated.
+
+3. What argument does the statement make about data and power?
+
+The statement argued that data and artificial intelligence systems are not neutral. They are determined by political and economic power structures. Whoever controls the data benefits from it.
+
+4. What is the intended impact, and is this included in the statement?
+
+The intended impact is to encourage people to think critically about artificial intelligence, labour and economic systems. This intention is included in the statement through discussions of neoliberalism, inequality, labour exploitation and alternative economic models.
+
+### 
 
 ## AI Usage Statement
 
