@@ -60,5 +60,14 @@ Ultimately, I intend for this visualisation to let the public appreciate the **d
 
    The direction of this project is to develop an interactive tourism visualisation that helps users explore how global economic and social changes  influence travel to New Zealand.
 
+### Peer Share
+1. What is clear and compelling?
+
+This interactive map and line graph are easy to understand. The interactive map and line graph are arranged one above the other, and the narrative approach, which moves from the general to specific countries, allows readers to select the data they are interested in. This is more engaging for users than traditional static charts.
+
+2. What still needs to be developed or resolved?
+
+I think some explanatory text could help users better understand how the chart tells its story.
+
 
 
