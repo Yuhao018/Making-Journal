@@ -63,15 +63,32 @@ Ultimately, I intend for this visualisation to let the public appreciate the **d
 ### Peer Share
 1. What is clear and compelling?
 
-This interactive map and line graph are easy to understand. The interactive map and line graph are arranged one above the other, and the narrative approach, which moves from the general to specific countries, allows readers to select the data they are interested in. This is more engaging for users than traditional static charts.
+   This interactive map and line graph are easy to understand. The interactive map and line graph are arranged one above the other, and the narrative approach, which moves from the general to specific countries, allows readers to select the data they are interested in. This is more engaging for users than traditional static charts.
 
 2. What still needs to be developed or resolved?
 
-I think some explanatory text could help users better understand how the chart tells its story.
+   I think some explanatory text could help users better understand how the chart tells its story.
 
 ## Making Sprint
 
 ![picmiro](../assets/week-09/picmiro.png)
 
 ## Round Robin Rapid Reactions
+
+1. Does the project statement clearly outline a provocation?
+
+   Yes. I think it allows the audience to interact directly with the travel data, which is more engaging than static data visualisations and encourages audience participation.
+
+2. What does the sprint outcome suggest about where the project is heading?
+
+   There is overall map data and trend data for various countries. It can be displayed dynamically using sliders and checkboxes for interaction. The only thing missing is an explanation of why there's data for only eight countries.
+
+3. What does this work make you think or feel about its subject matter?
+
+   This work has made me think about the reasons that influence travel behaviour. Why are there differences in the data for each country?
+
+4. What needs to be resolved before the week 12 showcase?
+
+   Add operation instructions on the right side of the chart. For the line chart, add a drop-down menu to differentiate travellers with different purposes.
+
 
