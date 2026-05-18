@@ -103,4 +103,18 @@ At the same time, the destination country, New Zealand, has been marked on the m
 
 When marking the map of New Zealand with colour, you need to first check what the representative letters for New Zealand are in the JSON file, and then find the representative letters in the program to set it.
 
-## 
+## Progress Report
+
+![P1](../assets/week-09/P1.png)
+
+![P2](../assets/week-09/P2.png)
+
+![P3](../assets/week-09/P3.png)
+
+![P4](../assets/week-09/P4.png)
+
+![P5](../assets/week-09/P5.png)
+
+![P6](../assets/week-09/P6.png)
+
+![P7](../assets/week-09/P7.png)
