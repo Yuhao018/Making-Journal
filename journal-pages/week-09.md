@@ -91,4 +91,16 @@ Ultimately, I intend for this visualisation to let the public appreciate the **d
 
    Add operation instructions on the right side of the chart. For the line chart, add a drop-down menu to differentiate travellers with different purposes.
 
+# Independent Study
 
+## Project Development
+
+<iframe src="https://editor.p5js.org/yuhaochen018/full/xLp7f77Rv" width="800" height="600"></iframe>
+
+This version adds a drop-down menu to the line chart to differentiate travellers with different purposes. This allows you to see the trend of visitor changes in different countries according to the purpose of travel. This enables tourism-related industries to obtain more accurate data, for example, travel agencies and hotels at tourist attractions.
+
+At the same time, the destination country, New Zealand, has been marked on the map to more intuitively show the distance between the destination and the origin.
+
+When marking the map of New Zealand with colour, you need to first check what the representative letters for New Zealand are in the JSON file, and then find the representative letters in the program to set it.
+
+## 
