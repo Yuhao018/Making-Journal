@@ -6,9 +6,30 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+# In-Class Activities
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+## Feedback
+
+My questions：
+
+Q1: Are there other visual approaches that could make the project more engaging?
+
+Q2: What should be improved before the next iteration?
+
+Peers' Feedback:
+
+Q1: 
+
+I think it would be easier to read the pie chart if selecting a country displayed the corresponding number of visitors.
+
+Adding some text explaining the source of the data would make it easier for users to utilise the data.
+
+It is clear already. I like the combination of the map and the graph because it shows both location and trends.
+
+Q2:
+
+
+
 
 ## Images & Media
 
