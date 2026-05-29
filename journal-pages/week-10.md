@@ -42,6 +42,8 @@ I gave feedback to peers.
 
 ![Feedback](../assets/week-10/Feedback.png)
 
+I have also gained a great deal of inspiration from my peers' projects. For instance, the way they record and present their data is something I hadn't considered. I simply collect data from the internet and process it. I hadn't given much thought to the possibility of directly obtaining and managing users' own data.
+
 ## Action Plan
 
 I've received a lot of useful suggestions. These suggestions can help me improve the project's practicality and visual experience. A colleague suggested adding some data source descriptions to the charts, which I think is very helpful. This will reduce user confusion when using the data. In addition, a colleague suggested that users should be able to see the exact number of visitors when selecting a specific country pie chart. This will help users to read the chart easily. These suggestions can all help me improve the readability of the charts. Although displaying the data may be a bit difficult in further development, it's worth a try.
