@@ -8,7 +8,7 @@ layout: default
 
 # In-Class Activities 
 
-## Concept Sketche
+## Concept Sketches
 
 ![design sketch](../assets/week-07/design1.png)
 
