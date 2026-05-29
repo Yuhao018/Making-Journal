@@ -8,7 +8,9 @@ layout: default
 
 # In-Class Activities
 
-## Feedback
+## Progress Reports
+
+Record of feedback received.
 
 My questions：
 
@@ -33,6 +35,10 @@ The map looks good, but some country labels are too small to read.
 It might be worth testing the addition of a 3D perspective to pie charts to enhance their visual appeal.
 
 When selecting several countries at once, are the colours easy to distinguish?
+
+## Gallery Walk
+
+
 
 ## Action Plan
 
