@@ -54,6 +54,8 @@ Based on this feedback, I've made some trade-offs. The next stage of development
 
 # Independent Study
 
+## Project Development
+
 Two iterations were made:
 
 Firstly, the width of the chart canvas was adjusted from 800 to 1000. The additional 200 was used to add a rectangular grey block. This block contains text providing the data source and usage instructions.
