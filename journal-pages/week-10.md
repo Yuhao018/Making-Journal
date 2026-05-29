@@ -38,7 +38,8 @@ When selecting several countries at once, are the colours easy to distinguish?
 
 ## Gallery Walk
 
-
+I gave Feedback to peers.
+![Feedback](../assets/week-10/Feedback.png)
 
 ## Action Plan
 
