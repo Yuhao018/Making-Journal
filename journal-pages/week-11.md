@@ -60,15 +60,23 @@ The final artefact:
 
 List of included functions:
 
- World Map 
- Pie Chart
- Slider
- Tooltip
- New Zealand Highlight
- Line Chart
- Checkbox
- Dropdown Filter
- Data Source Panel
+ * World Map
+
+ * Pie Chart with Three Visitor Purpose
+
+ * Time Slider
+
+ * Tooltip on Pie Chart
+
+ * New Zealand Highlight
+
+ * Line Chart
+
+ * Checkbox for Select Countries
+
+ * Dropdown Filter Different Purpose
+
+ * Data Source Panel
  
 Web link: https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY
 
