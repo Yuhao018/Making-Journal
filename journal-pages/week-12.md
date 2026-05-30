@@ -10,7 +10,7 @@ layout: default
 
 ## Visitors to New Zealand by Country
 
-This is an interactive data visualisation design showcasing international visitor statistics for New Zealand. The charts include a world map, pie charts showing visitor demographics by purpose, a time slider, and line graphs illustrating changes in visitor numbers from various countries. Users can explore visitor origins, trends in visitor numbers over time, and differences in travel purposes among visitors from different countries through this visualisation tool.
+This is an interactive data visualisation design showcasing international visitor statistics for New Zealand. The charts include a world map, pie charts showing visitor purpose, a time slider, and line graphs illustrating changes in visitor numbers from various countries. Users can explore visitor origins, trends in visitor numbers over time, and differences in travel purposes among visitors from different countries through this visualisation tool.
 
 The primary data for this project comes from the Stats NZ Infoshare database. This online database provides visitor data from February 2023 to January 2026 for eight key source markets. Visitors from each country are further categorised by Business, Holiday/Vacation, and Visiting Friends/Relatives. Supplementary data includes the geographical coordinates of these eight countries and a GeoJSON world map. Tourism statistics are pinpointed on the world map using geographical locations.
 
