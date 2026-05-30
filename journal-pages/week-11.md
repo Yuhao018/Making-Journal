@@ -18,7 +18,7 @@ The first was converting the raw tourism dataset from Stats NZ into a CSV file t
 
 The second was finding a suitable world map JSON. After downloading, the GeoJSON world map was successfully loaded. This transformed the graphical display from simple charts into spatial visualisations capable of conveying geographical relationships.
 
-
+The third is feedback from peers in the past few weeks. Companions proposed interaction, filtering, readability, and data explanation. These suggestions prompted me to iterate the program step by step. The updated program enhanced interaction with users.
 
 ## Images & Media
 
