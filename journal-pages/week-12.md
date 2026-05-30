@@ -32,4 +32,4 @@ The final artefact:
 
 ## References
 
-Stats NZ. (2026). Tourism satellite account: Year ended March 2025. Stats NZ. https://www.stats.govt.nz/information-releases/tourism-satellite-account-year-ended-march-2025/?utm_source=chatgpt.com
+Stats NZ. (2026). Tourism satellite account: Year ended March 2025. Stats NZ. https://www.stats.govt.nz/information-releases/tourism-satellite-account-year-ended-march-2025/
