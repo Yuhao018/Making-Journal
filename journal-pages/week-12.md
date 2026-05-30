@@ -6,19 +6,24 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+# Project Statement
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+## Visitors to New Zealand by Country
 
-## Images & Media
+This is an interactive data visualisation design showcasing international visitor statistics for New Zealand. The charts include a world map, pie charts showing visitor demographics by purpose, a time slider, and line graphs illustrating changes in visitor numbers from various countries. Users can explore visitor origins, trends in visitor numbers over time, and differences in travel purposes among visitors from different countries through this visualisation tool.
 
-*Use the format below to embed images from your assets folder:*
+The primary data for this project comes from the Stats NZ Infoshare database. This online database provides visitor data from February 2023 to January 2026 for eight key source markets. Visitors from each country are further categorised by Business, Holiday/Vacation, and Visiting Friends/Relatives. Supplementary data includes the geographical coordinates of these eight countries and a GeoJSON world map. Tourism statistics are pinpointed on the world map using geographical locations.
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+This project does not present statistical information through static charts. Instead, complex data is dynamically displayed using various interactive tools. Users can view data for the eight countries for each month using the time slider, and hovering over the pie chart reveals specific data for the selected country. 
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
-## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+By ticking the corresponding country in a checkbox, users can display dynamic line graphs. They can also select different visitor purposes on the line graphs. This interactive approach gives users more autonomy to explore content of interest to them.
+
+The project intends to deliver effective information for various tourism-related users. Tourists can identify peak and off-peak seasons, allowing them to make appropriate choices for when to visit NZ. Tourism is one of NZ’s most important industries. As of March 2025, tourism expenditure was NZ$46.6 billion, accounting for 7.7% of GDP (Stats NZ, 2026). Understanding visitor patterns can help users develop strategic plans. Tour operators can understand seasonal patterns of visitors and key international markets. Accommodation providers can use this data to forecast visitor demand and conduct effective business planning. Government tourism departments can analyse visitor trends in conjunction with economic conditions to create new policies and stimulate visitor spending.
+
+
+
+## References
+
+Stats NZ. (2026). Tourism satellite account: Year ended March 2025. Stats NZ. https://www.stats.govt.nz/information-releases/tourism-satellite-account-year-ended-march-2025/?utm_source=chatgpt.com
