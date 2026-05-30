@@ -58,7 +58,7 @@ This function can help users quickly get the tourism information.
 
 The final artefact:
 
-List of included functions:
+List of features included:
 
  * World Map
 
