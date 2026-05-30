@@ -28,7 +28,7 @@ Figure1: Display of tourism data from 8 countries.
 Figure2: Difference between Japan and Korea at same month.
 
 The final artefact:
-<iframe src="https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY" width="1000" height="600"></iframe>
+<iframe src="https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY" width="1000" height="1200"></iframe>
 
 ## References
 
