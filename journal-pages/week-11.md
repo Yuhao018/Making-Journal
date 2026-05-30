@@ -20,14 +20,30 @@ The second was finding a suitable world map JSON. After downloading, the GeoJSON
 
 The third is feedback from peers in the past few weeks. Companions proposed interaction, filtering, readability, and data explanation. These suggestions prompted me to iterate the program step by step. The updated program enhanced interaction with users.
 
-## Images & Media
+## Practice Consultations
 
-*Use the format below to embed images from your assets folder:*
+I can clearly describe the project's theme, data sources, and design process. Every step of the project's development, feedback, and iteration has been recorded in my weekly notes.
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+Step 1: Sketch the graphics to be created. Convert the data downloaded from Stat NZ into CSV format. Download appropriate GeoJSON. Create a CSV file with the coordinates of 8 countries.
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+Step 2: Develop line graphs for 8 countries in p5.js.
+
+Step 3: Upload GeoJSON and continue developing pie charts that display data geographically.
+
+Step 4: Add a filter for the number of tourists with different travel purposes to the line graph. Mark NZ on the map with colour.
+
+Step 5: Add hover-over data display to the pie chart. Add data sources and chart descriptions to the right of the graphic.
+
+Step 6: Add month and total displays to the right.
+
+I have provided explanations for the data. I hope this helps users understand New Zealand's tourism patterns, tourist behaviour, and the connection between countries and travel destinations in recent years.
+
+For me, the most challenging question was how this chart could be useful to users. I believe the main users of this chart are the local tourism industry. For example, hotels can use this chart to know which months see the most visitors from which countries, allowing them to make plans, formulate reasonable market pricing strategies, and adapt their reception methods for target customers. Government tourism agencies can also use this graphic to analyse the impact of tourism policies and international situations on the tourism industry.
+
+
+
+
+
 
 ## AI Usage Statement
 
