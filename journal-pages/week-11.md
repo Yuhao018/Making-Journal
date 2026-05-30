@@ -54,7 +54,13 @@ I also checked the final artefact, journal entries, and project statement requir
 
 Add a dynamic dashboard summary which shows the selected month, total visitor arrivals from 8 countries, and the largest source country.
 
+This function can help users quickly get the tourism information.
 
-## AI Usage Statement
+The final artefact:
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+<iframe src="https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY" width="1000" height="600"></iframe>
+
+Programe by the prompt (OpenAI, 2026).
+
+# References
+  OpenAI. (2026). ChatGPT (May 30 version) [Large language model]. https://chat.openai.com/chat
