@@ -58,6 +58,8 @@ This function can help users quickly get the tourism information.
 
 The final artefact:
 
+Web link: https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY
+
 <iframe src="https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY" width="1000" height="600"></iframe>
 
 Programe by the prompt (OpenAI, 2026).
