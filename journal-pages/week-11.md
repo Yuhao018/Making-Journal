@@ -58,6 +58,18 @@ This function can help users quickly get the tourism information.
 
 The final artefact:
 
+List of included functions:
+
+ World Map 
+ Pie Chart
+ Slider
+ Tooltip
+ New Zealand Highlight
+ Line Chart
+ Checkbox
+ Dropdown Filter
+ Data Source Panel
+ 
 Web link: https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY
 
 <iframe src="https://editor.p5js.org/yuhaochen018/full/Q9UP5ACBY" width="1000" height="600"></iframe>
