@@ -64,4 +64,9 @@ Secondly, when hovering the mouse over a pie chart segment, a description of the
 
 <iframe src="https://editor.p5js.org/yuhaochen018/full/fre0u5TTa" width="1000" height="600"></iframe>
 
+Programe by the prompt (OpenAI, 2026).
+
 During the program modification, after adding the explanatory text, the entire font appeared to shift downwards. This was because using textAlign(LEFT, TOP) when adding the text adjusted the text alignment. Adding textAlign(LEFT, BASELINE) reset the alignment and resolved the issue. Furthermore, after moving the mouse away from the hover area, the floating text was not disappearing. After checking the program, it was found that the frame count was not being reset to null after the hover event. This was adjusted, and the problem was resolved.
+
+# References
+  OpenAI. (2026). ChatGPT (May 21 version) [Large language model]. https://chat.openai.com/chat
