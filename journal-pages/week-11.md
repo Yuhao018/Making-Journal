@@ -40,9 +40,19 @@ I have provided explanations for the data. I hope this helps users understand Ne
 
 For me, the most challenging question was how this chart could be useful to users. I believe the main users of this chart are the local tourism industry. For example, hotels can use this chart to know which months see the most visitors from which countries, allowing them to make plans, formulate reasonable market pricing strategies, and adapt their reception methods for target customers. Government tourism agencies can also use this graphic to analyse the impact of tourism policies and international situations on the tourism industry.
 
+## Showcase Planning
 
+I have chosen the showcase location for my project. As preparation for Week 12, I continued iterating my project.
 
+This week, I added a dynamic dashboard summary showing the selected month, total visitor arrivals from 8 countries, and the largest source country. This iteration help  users quickly get key tourism information.
 
+I also checked the final artefact, journal entries, and project statement requirements. My next steps are completing the project statement, checking GitHub Pages content,  and preparing for the studio consultation. 
+
+# Independent Study
+
+## Project Finalisation and Submission
+
+Add a dynamic dashboard summary which shows the selected month, total visitor arrivals from 8 countries, and the largest source country.
 
 
 ## AI Usage Statement
