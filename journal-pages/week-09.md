@@ -97,6 +97,8 @@ Ultimately, I intend for this visualisation to let the public appreciate the **d
 
 <iframe src="https://editor.p5js.org/yuhaochen018/full/xLp7f77Rv" width="800" height="600"></iframe>
 
+Programe by the prompt (OpenAI, 2026).
+
 This version adds a drop-down menu to the line chart to differentiate travellers with different purposes. This allows you to see the trend of visitor changes in different countries according to the purpose of travel. This enables tourism-related industries to obtain more accurate data, for example, travel agencies and hotels at tourist attractions.
 
 At the same time, the destination country, New Zealand, has been marked on the map to more intuitively show the distance between the destination and the origin.
@@ -118,3 +120,6 @@ When marking the map of New Zealand with colour, you need to first check what th
 ![P6](../assets/week-09/P6.png)
 
 ![P7](../assets/week-09/P7.png)
+
+# References
+  OpenAI. (2026). ChatGPT (May 21 version) [Large language model]. https://chat.openai.com/chat
