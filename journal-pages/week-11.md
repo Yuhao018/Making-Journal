@@ -46,7 +46,7 @@ I have chosen the showcase location for my project. As preparation for Week 12, 
 
 This week, I added a dynamic dashboard summary showing the selected month, total visitor arrivals from 8 countries, and the largest source country. This iteration help  users quickly get key tourism information.
 
-I also checked the final artefact, journal entries, and project statement requirements. My next steps are completing the project statement, checking GitHub Pages content,  and preparing for the studio consultation. 
+I also checked the final artefact, journal entries, and project statement requirements. My next steps are completing the project statement, checking GitHub Pages content, and preparing for the studio consultation. 
 
 # Independent Study
 
